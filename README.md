@@ -4,12 +4,12 @@ Pipeline to compare synteny of large DNA regions.
 
 Broad view:
 
-![](./assets/diagram/syn_lstz_brd1.png)
+![](./assets/syn_lstz_brd1.png)
 
 
 Focussed view:
 
-![](./assets/diagram/syn_reps_foc1.png)
+![](./assets/syn_reps_foc1.png)
 
 
 Based around LastZ, RepeatMasker, Tandem Repeat Finder and pygenomeviz.
@@ -50,8 +50,8 @@ r1p9_key.ipynb
 r1p9_key2.ipynb
 - Used to create a custom key for the focussed region plot.
 
-![](./assets/diagram/key_lastz.png)
-![](./assets/diagram/key_reps.png)
+![](./assets/key_lastz.png)
+![](./assets/key_reps.png)
 
 Additional file/folder requirements:
 
@@ -89,11 +89,11 @@ pics
 - Output pictures.
 
 See also:
-https://github.com/trentnewman/dmrcan
-"PRKACB is a novel imprinted gene in marsupials" by Newman et al.
+https://github.com/trentnewman/dmrcan \
+"PRKACB is a novel imprinted gene in marsupials" by Newman et al. \
 
-Dependency refs:
-pygenomeviz
-lastz
-trf
+Dependency refs: \
+pygenomeviz \
+lastz \
+trf \
 rm
