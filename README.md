@@ -50,8 +50,8 @@ r1p9_key.ipynb
 r1p9_key2.ipynb
 - Used to create a custom key for the focussed region plot.
 
-![](./assets/key_lastz.png)
-![](./assets/key_reps.png)
+<img src="./assets/key_lastz.png" width="100">
+<img src="./assets/key_reps.png" width="100">
 
 Additional file/folder requirements:
 
@@ -90,7 +90,7 @@ pics
 
 See also:
 https://github.com/trentnewman/dmrcan \
-"PRKACB is a novel imprinted gene in marsupials" by Newman et al. \
+"PRKACB is a novel imprinted gene in marsupials" by Newman et al.
 
 Dependency refs: \
 pygenomeviz \
