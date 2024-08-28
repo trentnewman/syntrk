@@ -1,0 +1,51 @@
+==================================================
+file name: Human_foc.fasta          
+sequences:             1
+total length:      50001 bp  (50001 bp excl N/X-runs) 
+GC level:         36.99 %
+bases masked:      29383 bp ( 58.76 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                16         3455 bp    6.91 %
+      Alu/B1           7         1962 bp    3.92 %
+      MIRs             9         1493 bp    2.99 %
+
+LINEs:                18        17903 bp   35.81 %
+      LINE1           10        14232 bp   28.46 %
+      LINE2            7         3116 bp    6.23 %
+      L3/CR1           1          555 bp    1.11 %
+      RTE              0            0 bp    0.00 %
+
+LTR elements:         15         7164 bp   14.33 %
+      ERVL             3         1506 bp    3.01 %
+      ERVL-MaLRs       6         2343 bp    4.69 %
+      ERV_classI       3         3092 bp    6.18 %
+      ERV_classII      2          118 bp    0.24 %
+
+DNA elements:          4          861 bp    1.72 %
+      hAT-Charlie      1          136 bp    0.27 %
+      TcMar-Tigger     2          667 bp    1.33 %
+
+Unclassified:          0            0 bp    0.00 %
+
+Total interspersed repeats:     29383 bp   58.76 %
+
+
+Small RNA:             0            0 bp    0.00 %
+
+Satellites:            0            0 bp    0.00 %
+Simple repeats:        0            0 bp    0.00 %
+Low complexity:        0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be mammals       
+RepeatMasker version 4.1.5 , default mode
+                                        
+run with rmblastn version 2.13.0+
+FamDB: CONS-Dfam_3.7

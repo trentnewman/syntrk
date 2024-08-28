@@ -1,0 +1,51 @@
+==================================================
+file name: Koala_foc.fasta          
+sequences:             1
+total length:      50001 bp  (50001 bp excl N/X-runs) 
+GC level:         37.43 %
+bases masked:      14409 bp ( 28.82 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                25         3782 bp    7.56 %
+      Alu/B1           0            0 bp    0.00 %
+      MIRs            24         3730 bp    7.46 %
+
+LINEs:                30         8829 bp   17.66 %
+      LINE1            3         1538 bp    3.08 %
+      LINE2           13         3992 bp    7.98 %
+      L3/CR1          11         2398 bp    4.80 %
+      RTE              2          489 bp    0.98 %
+
+LTR elements:          4          350 bp    0.70 %
+      ERVL             0            0 bp    0.00 %
+      ERVL-MaLRs       0            0 bp    0.00 %
+      ERV_classI       0            0 bp    0.00 %
+      ERV_classII      4          350 bp    0.70 %
+
+DNA elements:          9         1448 bp    2.90 %
+      hAT-Charlie      4          645 bp    1.29 %
+      TcMar-Tigger     3          690 bp    1.38 %
+
+Unclassified:          0            0 bp    0.00 %
+
+Total interspersed repeats:     14409 bp   28.82 %
+
+
+Small RNA:             0            0 bp    0.00 %
+
+Satellites:            0            0 bp    0.00 %
+Simple repeats:        0            0 bp    0.00 %
+Low complexity:        0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be mammals       
+RepeatMasker version 4.1.5 , default mode
+                                        
+run with rmblastn version 2.13.0+
+FamDB: CONS-Dfam_3.7

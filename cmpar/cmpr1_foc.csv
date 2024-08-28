@@ -1,0 +1,10 @@
+num,a,b
+0,Human_foc.fasta,Mouse_foc.fasta
+1,Mouse_foc.fasta,Elephant_foc.fasta
+2,Elephant_foc.fasta,Echidna_foc.fasta
+3,Echidna_foc.fasta,Platypus_foc.fasta
+4,Platypus_foc.fasta,Agilis_foc.fasta
+5,Agilis_foc.fasta,Opossum_foc.fasta
+6,Opossum_foc.fasta,Koala_foc.fasta
+7,Koala_foc.fasta,Tammar_foc.fasta
+8,Tammar_foc.fasta,Brushtail_foc.fasta

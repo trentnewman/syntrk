@@ -1,0 +1,51 @@
+==================================================
+file name: Opossum_foc.fasta        
+sequences:             1
+total length:      50001 bp  (50001 bp excl N/X-runs) 
+GC level:         35.52 %
+bases masked:      13725 bp ( 27.45 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                26         3900 bp    7.80 %
+      Alu/B1           0            0 bp    0.00 %
+      MIRs            26         3900 bp    7.80 %
+
+LINEs:                25         8583 bp   17.17 %
+      LINE1            3         1592 bp    3.18 %
+      LINE2           11         4514 bp    9.03 %
+      L3/CR1           9         2010 bp    4.02 %
+      RTE              2          467 bp    0.93 %
+
+LTR elements:          2          473 bp    0.95 %
+      ERVL             0            0 bp    0.00 %
+      ERVL-MaLRs       0            0 bp    0.00 %
+      ERV_classI       0            0 bp    0.00 %
+      ERV_classII      1           75 bp    0.15 %
+
+DNA elements:          7          769 bp    1.54 %
+      hAT-Charlie      3          397 bp    0.79 %
+      TcMar-Tigger     2          293 bp    0.59 %
+
+Unclassified:          0            0 bp    0.00 %
+
+Total interspersed repeats:     13725 bp   27.45 %
+
+
+Small RNA:             0            0 bp    0.00 %
+
+Satellites:            0            0 bp    0.00 %
+Simple repeats:        0            0 bp    0.00 %
+Low complexity:        0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be mammals       
+RepeatMasker version 4.1.5 , default mode
+                                        
+run with rmblastn version 2.13.0+
+FamDB: CONS-Dfam_3.7

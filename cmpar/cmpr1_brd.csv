@@ -1,0 +1,10 @@
+num,a,b
+0,Human_brd.fasta,Mouse_brd.fasta
+1,Mouse_brd.fasta,Elephant_brd.fasta
+2,Elephant_brd.fasta,Echidna_brd.fasta
+3,Echidna_brd.fasta,Platypus_brd.fasta
+4,Platypus_brd.fasta,Agilis_brd.fasta
+5,Agilis_brd.fasta,Opossum_brd.fasta
+6,Opossum_brd.fasta,Koala_brd.fasta
+7,Koala_brd.fasta,Tammar_brd.fasta
+8,Tammar_brd.fasta,Brushtail_brd.fasta

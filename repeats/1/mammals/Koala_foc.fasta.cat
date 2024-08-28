@@ -1,0 +1,2383 @@
+1156 31.05 1.84 2.01 Pc_MSTS01000033.1.fa 712 1309 (48692) C L1ME4c_3end#LINE/L1 (227) 603 7 m_b1s551i0
+
+  Pc_MSTS010000        712 TTTCCATGTTTTTCTGAGAG-CTTCCTGCTCATCATTTCTTACAG-TACA 759
+                                     vi vi- v  -    v iv i       i v ii - i  
+C L1ME4c_3end#L        603 TTTCCATGTTGCTAC-ATAGTCTTCATAATTATCATTTTTAATGGCTGCA 555
+
+  Pc_MSTS010000        760 ATAGTATTCCATCACAATC-ACATACCACAACTTATTCAGCCATTCCCCA 808
+                           -  i         i- i ?- ii     i  i   i i i         v
+C L1ME4c_3end#L        554 -TAATATTCCATCG-AGTNGATGTACCATAATTTACTTAACCATTCCCCT 507
+
+  Pc_MSTS010000        809 ATTGATGGGCTTCTCCTCAACTTCCAGTTCTTTTTCCCTGGAAAAGAT-- 856
+                               v   i v i vvvivii     i  ---    v  ivv v i  --
+C L1ME4c_3end#L        506 ATTGTTGGACATTTAGGTTGTTTCCAATT---TTTCGCTATTATAAATAA 460
+
+  Pc_MSTS010000        857 --TTGCTACAAATATTTTTGTACATATAAATCCTTTTTCTTTTTATTTTC 904
+                           --i   v ii  i  i  i  i      i---       i  i -   vv
+C L1ME4c_3end#L        459 CGCTGCAATGAACATCTTCGTGCATATAG---CTTTTTCCTTCT-TTTGA 414
+
+  Pc_MSTS010000        905 TTTATATCTTTTGGGATACAGATCTAGTAGTGGAATTGCTAGGCCAAAGG 954
+                           v    v  i  -i     v vvi i  v         i  i  i      
+C L1ME4c_3end#L        413 ATTATTTCCTT-AGGATAAATTCCCAGAAGTGGAATTACTGGGTCAAAGG 365
+
+  Pc_MSTS010000        955 GTATGCATGGTTTTATAGCCCTTTGGACATAGTCCCAAACTGCTCTACAG 1004
+                                v iiv      i  i   viv  i  v v     i    i v  i
+C L1ME4c_3end#L        364 GTATGAACATTTTTATGGCTCTTGATACGTATTGCCAAATTGCTTTCCAA 315
+
+  Pc_MSTS010000       1005 AAAGGTTAAATCAGTTCACAACTCCACCAACAATGCATTAAAGTCTCATT 1054
+                             i    iv i  i  i   ?iv      i     i  v i?  vi  v 
+C L1ME4c_3end#L        314 AAGGGTTGTACCAATTTACANTGCCACCAGCAATGTATGAGNGTACCAGT 265
+
+  Pc_MSTS010000       1055 TTTCCTACATCCCCTCCAACATTTGTCATTTTCCTTTTCTGTCCTATTAG 1104
+                             iv ii  ?  i v   i    v vi   v  vv   i vvvv v  v 
+C L1ME4c_3end#L        264 TTCACCGCANCCTCGCCAGCATTGGGTATTATCAATTTTTTAAATTTTTG 215
+
+  Pc_MSTS010000       1105 CTAATCTAATAGGTATGAGGTAGTACCTCAGAATTATTTTAATTTACATT 1154
+                                i       ii i ii i   i    vvi  ii        i    
+C L1ME4c_3end#L        214 CTAATTTAATAGGCGTAAAATGGTATCTCATTGTTGCTTTAATTTGCATT 165
+
+  Pc_MSTS010000       1155 TCTCCAATCAATAGTGAGTTAGAATATTTTTCCATATGGCTATAGATAGC 1204
+                              iii  i v   i   v v   i          i  vi i vv ivi?
+C L1ME4c_3end#L        164 TCTTTGATTACTAGCGAGGTTGAACATTTTTCCATGTGTTTGTTTACTAN 115
+
+  Pc_MSTS010000       1205 TTTGATTACTTCATCTGAAAA----CTGATCACATCTTTTGATCACTTAT 1250
+                             vv   v i  v ?  vi  ----   v   ii  i    vi  i    
+C L1ME4c_3end#L        114 TTGTATTTCCTCTTNTGTGAATTGTCTGTTCATGTCCTTTGCCCATTTAT 65
+
+  Pc_MSTS010000       1251 TATTTGGGGAATGGCTCTTTTTTTTTGTAAATTTGACTCAGTTCTCTATA 1300
+                           ivv      vv v v -?     i  i v       v v  i   i    
+C L1ME4c_3end#L         64 CTATTGGGGTCTTGAT-NTTTTTCTTATCAATTTGAATGAGCTCTTTATA 16
+
+  Pc_MSTS010000       1301 TGTTTGAGA 1309
+                            i? v?   
+C L1ME4c_3end#L         15 TANTANAGA 7
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 40.27
+CpG sites = 105, Kimura (unadjusted) = 42.16
+Transitions / transversions = 1.36 (105/77)
+Gap_init rate = 0.03 (18 / 597), avg. gap size = 1.28 (23 / 18)
+
+253 30.55 3.42 1.34 Pc_MSTS01000033.1.fa 1181 1326 (48675) C L1PREC2_orf2#LINE/L1 (12) 3282 3134 m_b1s551i1
+
+  Pc_MSTS010000       1181 TTTTTCCATATGGCTATAGATAGCTTTGATTACTTCATCTGAAAA----C 1226
+                                i      vi i v iiv  v vv  vv    v i      ---- 
+C L1PREC2_orf2#       3282 TTTTTTCATATGCTTGTTGGCCGCATGTATGTCTTCTTTTGAAAAGTGTC 3233
+
+  Pc_MSTS010000       1227 TGATCACATCTTTTGATCACTTATTATTTGGGGAATGGCTCTTTTTTT-T 1275
+                             v   ii  i    vi     v   v --   iv  vi v       - 
+C L1PREC2_orf2#       3232 TGTTCATGTCCTTTGCCCACTTTTTAAT--GGGGTTGTTTGTTTTTTTCT 3185
+
+  Pc_MSTS010000       1276 TGTAAATTTGACTCAGTTCTCTATATGTTTGAGAAATGAGGCCTTTATTA 1325
+                                     vi v     ii    vi vivi  v  v  i     i i 
+C L1PREC2_orf2#       3184 TGTAAATTTGTTTAAGTTCCTTATAGATGCTGGATATTAGACCTTTGTCA 3135
+
+  Pc_MSTS010000       1326 G 1326
+                            
+C L1PREC2_orf2#       3134 G 3134
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 39.64
+CpG sites = 21, Kimura (unadjusted) = 39.64
+Transitions / transversions = 0.91 (21/23)
+Gap_init rate = 0.03 (4 / 145), avg. gap size = 1.75 (7 / 4)
+
+375 29.50 6.78 3.28 Pc_MSTS01000033.1.fa 1895 2248 (47753) C L1M1_orf2#LINE/L1 (2898) 396 31 m_b1s551i2
+
+  Pc_MSTS010000       1895 TAGCTCAGTTGAGGTTTCCTTTAAGAATTTGGATGCTAAGGCATTTGTAG 1944
+                                 viv i vi   v     viv  i   i    vvi ii  v vv 
+C L1M1_orf2#LIN        396 TAGCTCTAATAATATTTGCTTTATATATCTGGGTGCTCCAGTGTTGGGTG 347
+
+  Pc_MSTS010000       1945 CATATGAATTCATTACTA--ATATTGGTTTGTTATCTATGGTTCCTTTCA 1992
+                                iv   i ?v i i--    ivvi   i ivv -  iii     vv
+C L1M1_orf2#LIN        346 CATATATATTTANAATTGTTATATCCTCTTGCTGAAT-TGACCCCTTTAT 298
+
+  Pc_MSTS010000       1993 CATAATATAGTTTCCTTGTCTATGCCTTTTTAAATTTTTTGAATGTT--- 2039
+                              v       vv    v i i vi   i   v v      -- v  ---
+C L1M1_orf2#LIN        297 CATTATATAGTGACCTTCTTTGTCTCTTCTTATAGTTTTTG--TCTTGAA 250
+
+  Pc_MSTS010000       2040 -TTTGCTTTGTCAGATC---ACATGGTTTTAACTCCTACT---TTTTGGA 2082
+                           - i ii      v   v---ii  i i ---      i  ---      v
+C L1M1_orf2#LIN        249 ATCTATTTTGTCTGATATAAGTATAGCT---ACTCCTGCTCTTTTTTGGT 203
+
+  Pc_MSTS010000       2083 TTCACTTGGTACATAGCACAT-TTTTTCCCTCTTTTCAGTTTTATTCTGT 2131
+                              vv    --   i v i  -       v  ii  i v   i v   i 
+C L1M1_orf2#LIN        202 TTCCATTGG--CATGGAATATCTTTTTCCATCCCTTTATTTTCAGTCTAT 155
+
+  Pc_MSTS010000       2132 GTATGTCTGTTTTTATA-------CGTGTTTCTTG----AAACAGATTTT 2170
+                             i     ----     -------i          ----v       iv?
+C L1M1_orf2#LIN        154 GTGTGTCT----TTATAGGTGAAGTGTGTTTCTTGTAGGCAACAGATCAN 109
+
+  Pc_MSTS010000       2171 AGCATTTTGCGTTCTTATCCAATCTATCACTCTTTTTCATTTTATTGGAT 2220
+                           v vi i   iv  i i     v  vii      v v  v   v      v
+C L1M1_orf2#LIN        108 TGGGTCTTGTTTTTTCATCCATTCAGCCACTCTATGTCTTTTGATTGGAG 59
+
+  Pc_MSTS010000       2221 TGTTTAGTCCATTCACATTTAAAGTTAT 2248
+                           v            i     i  v     
+C L1M1_orf2#LIN         58 AGTTTAGTCCATTTACATTCAATGTTAT 31
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 38.33
+CpG sites = 51, Kimura (unadjusted) = 38.33
+Transitions / transversions = 1.02 (51/50)
+Gap_init rate = 0.06 (20 / 353), avg. gap size = 1.80 (36 / 20)
+
+373 29.52 2.78 2.78 Pc_MSTS01000033.1.fa 2853 2960 (47041) C MIR#SINE/MIR (66) 196 89 m_b1s601i0
+
+  Pc_MSTS010000       2853 TTAAAGCACTT--TTCTCCTCATAGCCATGTGAGGTAGATGCC-TTATTG 2899
+                               vv  i  -- i   viv i i  v i        i i i-     i
+C MIR#SINE/MIR         196 TTAACTCATTTAATCCTCACAACAACCCTATGAGGTAGGTACTATTATTA 147
+
+  Pc_MSTS010000       2900 TCTCCATTTTACAGATGAAAGAACCAAAGTTCAGAAAGGCTAAATAATGA 2949
+                             i               iii   ii i iv    i   i   i  --- 
+C MIR#SINE/MIR         146 TCCCCATTTTACAGATGAGGAAACTGAGGCACAGAGAGGTTAAGTA---A 100
+
+  Pc_MSTS010000       2950 TTCACCCAAAG 2960
+                           i ii     i 
+C MIR#SINE/MIR          99 CTTGCCCAAGG 89
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 41.14
+CpG sites = 25, Kimura (unadjusted) = 41.14
+Transitions / transversions = 4.17 (25/6)
+Gap_init rate = 0.05 (5 / 107), avg. gap size = 1.20 (6 / 5)
+
+497 25.11 16.15 1.08 Pc_MSTS01000033.1.fa 2867 3027 (46974) C MIRb#SINE/MIR (81) 187 3 m_b1s601i1
+
+  Pc_MSTS010000       2867 TCCTCATAGC---CATGTGAGGTAGATGCCTTATTGTCTCCATTTTACAG 2913
+                                 i i --- v  i       i i--     i  i           
+C MIRb#SINE/MIR        187 TCCTCACAACAACCCTGCGAGGTAGGTA--TTATTATCCCCATTTTACAG 140
+
+  Pc_MSTS010000       2914 ATGAAAGAACCAAAGTTCAGAAAGGCTAAATAA--TG-----ATTCAC-C 2955
+                               iii   ii i i     i   i   i   --  -----iv    - 
+C MIRb#SINE/MIR        139 ATGAGGAAACTGAGGCTCAGAGAGGTTAAGTAACTTGCCCAAGGTCACAC 90
+
+  Pc_MSTS010000       2956 -------------CAAAGCAAAGATT-GAACCCAGTGCT-TCTAATTCCA 2990
+                           -------------  i   vii    -        vv  -   i i    
+C MIRb#SINE/MIR         89 AGCTAGTAAGTGGCAGAGCCGGGATTCGAACCCAGGTCTGTCTGACTCCA 40
+
+  Pc_MSTS010000       2991 AGACCAGGGTACTTTTCACTGCACCATACAGTGCCTC 3027
+                            ii  v v iv    i          ii v iv    
+C MIRb#SINE/MIR         39 AAGCCCGTGCTCTTTCCACTGCACCACGCTGCCCCTC 3
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 29.32
+CpG sites = 30, Kimura (unadjusted) = 32.37
+Transitions / transversions = 3.00 (30/10)
+Gap_init rate = 0.06 (9 / 160), avg. gap size = 3.11 (28 / 9)
+
+532 29.10 12.57 0.49 Pc_MSTS01000033.1.fa 3345 3527 (46474) MIR3#SINE/MIR 2 206 (2) m_b1s601i2
+
+  Pc_MSTS010000       3345 TAGCAAAAT--TTGGGGA-AGAGGACATTAATTTTGGAATCTGGAGACTT 3391
+                            i   i i --i  i v -    ii  ivi i v-   i  v      i 
+  MIR3#SINE/MIR          2 TGGCAGAGTGGCTGAGCAGAGAGAGCACGGACTG-GGAGTCAGGAGACCT 50
+
+  Pc_MSTS010000       3392 GGATTTCAATCCCTATTCTTCCA-----TTGGTATATAACCTTGGATAAA 3436
+                             i  ii i    vii   v   ----- ? v i i i       ii  i
+  MIR3#SINE/MIR         51 GGGTTCTAGTCCCGGCTCTGCCACTAACTNGCTGTGTGACCTTGGGCAAG 100
+
+  Pc_MSTS010000       3437 GGACTTTACTTTTCT-GACCTTAGTCTGTTCACCTATAAAAT-------- 3477
+                           vv    i  i i   - i   i   i vi   i  i      --------
+  MIR3#SINE/MIR        101 TCACTTCACCTCTCTGGGCCTCAGTTTCCTCATCTGTAAAATGAGGGGGT 150
+
+  Pc_MSTS010000       3478 --GACTAGATGATCTCAAAAGTCCTTCCTACCCCTAA-ATCCAATGA--- 3521
+                           --              v  i    i i i v i  i -  i v    ---
+  MIR3#SINE/MIR        151 TGGACTAGATGATCTCTAAGGTCCCTTCCAGCTCTGACATTCTATGATTC 200
+
+  Pc_MSTS010000       3522 TATGAT 3527
+                                 
+  MIR3#SINE/MIR        201 TATGAT 206
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 38.92
+CpG sites = 40, Kimura (unadjusted) = 39.93
+Transitions / transversions = 3.08 (40/13)
+Gap_init rate = 0.04 (8 / 182), avg. gap size = 3.00 (24 / 8)
+
+505 31.84 3.26 2.70 Pc_MSTS01000033.1.fa 4431 4798 (45203) C L1ME4c_3end#LINE/L1 (249) 581 212 m_b1s551i3
+
+  Pc_MSTS010000       4431 TCATATTTGTTATTTCTTA-GAGTGCAATAATATTCCCTTATATCTATAC 4479
+                                v  i i    i v - iv    -         v iivi ?v  ii
+C L1ME4c_3end#L        581 TCATAATTATCATTTTTAATGGCTGCA-TAATATTCCATCGAGTNGATGT 533
+
+  Pc_MSTS010000       4480 AGAATAATTCGTTCAAGCATTCCCCAAATGATTAGTATCCACTTTGTTTC 4529
+                            vv      iii i  v        v v  v viii  ii vv       
+C L1ME4c_3end#L        532 ACCATAATTTACTTAACCATTCCCCTATTGTTGGACATTTAGGTTGTTTC 483
+
+  Pc_MSTS010000       4530 CAGTTCTTTGTTACAATAAAAAGCATTACTTGAAACATTTT-GT-CATAT 4577
+                             i  i  i i  iv     v i ii i vvvi     i  -  -     
+C L1ME4c_3end#L        482 CAATTTTTCGCTATTATAAATAACGCTGCAATGAACATCTTCGTGCATAT 433
+
+  Pc_MSTS010000       4578 ATTGCTCCTTTCGCATTGCTTTTGA----CTTCTTTAGCATATATTTCTG 4623
+                            --   ii  i ---- v       ----i   i    v   v   i ii
+C L1ME4c_3end#L        432 A--GCTTTTTCC----TTCTTTTGAATTATTTCCTTAGGATAAATTCCCA 389
+
+  Pc_MSTS010000       4624 GTAGTGGTTTTGCCAGATCAAAGGGTATGCACCATTTTGTGATTTTTTTA 4673
+                            v     vv  i ii i            v  vv    i  ii i  ---
+C L1ME4c_3end#L        388 GAAGTGGAATTACTGGGTCAAAGGGTATGAACATTTTTATGGCTCTT--- 342
+
+  Pc_MSTS010000       4674 GATAA--AGTTCTTAAGTGCTTTCCAGAATGGTTGAACCAATTCATAGCT 4721
+                               v-- v v iv  v         i  v     v       i i ?iv
+C L1ME4c_3end#L        341 GATACGTATTGCCAAATTGCTTTCCAAAAGGGTTGTACCAATTTACANTG 292
+
+  Pc_MSTS010000       4722 CCAC---CAATTCATGATTGTTCTTGGCACCCCATAGCCCCTCCACCAAT 4768
+                               ---    vi    v?  v iv viv v  ii ?  i v   v  v 
+C L1ME4c_3end#L        291 CCACCAGCAATGTATGAGNGTACCAGTTTCACCGCANCCTCGCCAGCATT 242
+
+  Pc_MSTS010000       4769 GACCACTTTCTTCTTTTGTCATTTTTGCTA 4798
+                            ivi i v  vvi    vvv          
+C L1ME4c_3end#L        241 GGGTATTATCAATTTTTTAAATTTTTGCTA 212
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 40.90
+CpG sites = 60, Kimura (unadjusted) = 42.92
+Transitions / transversions = 1.11 (60/54)
+Gap_init rate = 0.04 (16 / 367), avg. gap size = 1.38 (22 / 16)
+
+496 31.04 1.66 10.40 Pc_MSTS01000033.1.fa 4457 4999 (45002) C L1ME4a_3end#LINE/L1 (316) 555 56 m_b1s551i4
+
+  Pc_MSTS010000       4457 ATAATATTCCCTTATATCTATACAGAATAATTCGTTCAAGCATTCCCCAA 4506
+                                     v  ?   vv  ii vv      ii  i  v  ?     v 
+C L1ME4a_3end#L        555 ATAATATTCCATTNTATGGATGTACCATAATTTATTTAACCANTCCCCTA 506
+
+  Pc_MSTS010000       4507 ATGATTAGTATCCACTTTGTTTCCAGTTCTTTGTTACAATAAAAAGCATT 4556
+                           v  v viii  ii vv         i  i  i i  iv     v iiii 
+C L1ME4a_3end#L        505 TTGTTGGACATTTAGGTTGTTTCCAATTTTTCGCTATTATAAATAATGCT 456
+
+  Pc_MSTS010000       4557 ACTTGAAACATT-TTGT-CATATATTGCTCCTTTCGCATTGCTTTTGACT 4604
+                           i vvvi     i-    -    v  --  iiv ? i   iv  vv v i 
+C L1ME4a_3end#L        455 GCGATGAACATCCTTGTACATAAAT--CTTTGTNCACATCTCTGATTATT 408
+
+  Pc_MSTS010000       4605 TCTTTAGCATATATTTCTGGTAGTGGTTTTGCCAGATCAAAGGGTATGCA 4654
+                             i    v   v   i  i v     vv  i ii i            ? 
+C L1ME4a_3end#L        407 TCCTTAGGATAAATTCCTAGAAGTGGAATTACTGGGTCAAAGGGTATGNA 358
+
+  Pc_MSTS010000       4655 CCATTTTGTGATTTTTTTAGATAAA-GTT-CTTAAGTGCTTTCCAGAATG 4702
+                            vv    iv ii    ---    v -i  - iv  v   ii       v 
+C L1ME4a_3end#L        357 CATTTTTAAGGCTTTT---GATACATATTGCCAAATTGCCCTCCAGAAAG 311
+
+  Pc_MSTS010000       4703 GTTGAACCAATTCATAGCTCCAC---CAATTCATGATTGTTCTTGGCACC 4749
+                               v       i i vii    ---  i vi    vv  v ii viv ?
+C L1ME4a_3end#L        310 GTTGTACCAATTTACACTCCCACCAGCAGTGTATGAGAGTGCCCGTTTCN 261
+
+  Pc_MSTS010000       4750 CCATAGCCCCTCCACCAATGACCACTTTC-TTCTTTTGTCATTTTTGCTA 4798
+                              i v  i v   v  v  ivi i v  -v      i-v  i     i 
+C L1ME4a_3end#L        260 CCACACCCTCGCCAACACTGGGTATTATCAATCTTTTA-AATCTTTGCCA 212
+
+  Pc_MSTS010000       4799 GGTAGGGTGGTAGGTAGAATCTTAGAAATTTTTTTTATATAATCTTAGAA 4848
+                           iv ----  i     -   ------    vv ---------    i vvi
+C L1ME4a_3end#L        211 ATT----TGATAGGT-GAA------AAATGGT---------ATCTCATTG 182
+
+  Pc_MSTS010000       4849 TTCTTTTAGAACCTTAGAATTCTTTTAACTTGCATTTCTCTTATTAGTGA 4898
+                             v     i----  v v   ii   i ------------   i      
+C L1ME4a_3end#L        181 TTGTTTTAA----TTTGCATTTCTTTGA------------TTACTAGTGA 148
+
+  Pc_MSTS010000       4899 TTCAGAACATTGTTGTTGTTTTTAAATATGGTTGCTGA-AACTTTCACTT 4947
+                           vviv     ------- ?    i--     v  ii  i-v i  vi i  
+C L1ME4a_3end#L        147 GGTTGAACA-------TNTTTTC--ATATGTTTATTGGCCATTTGTATTT 107
+
+  Pc_MSTS010000       4948 GTTTCTTTTGAAAACAGCCTGTTCATATCCTTTGACTATTTATCTATTGA 4997
+                           v  -      vi  iv i        i       v i    v       i
+C L1ME4a_3end#L        106 CTT-CTTTTGTGAATTGTCTGTTCATGTCCTTTGCCCATTTTTCTATTGG 58
+
+  Pc_MSTS010000       4998 GG 4999
+                             
+C L1ME4a_3end#L         57 GG 56
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 40.35
+CpG sites = 81, Kimura (unadjusted) = 41.05
+Transitions / transversions = 1.16 (81/70)
+Gap_init rate = 0.11 (59 / 542), avg. gap size = 1.03 (61 / 59)
+
+209 21.72 0.00 5.00 Pc_MSTS01000033.1.fa 5369 5431 (44570) C MIRc#SINE/MIR (0) 268 209 m_b1s601i3
+
+  Pc_MSTS010000       5369 AATAATAAAATGATAACTCACTTTTATATAGCACTTTAAGGTTTATAATG 5418
+                                   -- i i?v  i  v   i            vi     i  v 
+C MIRc#SINE/MIR        268 AATAATAA--TAACNCCTTACATTTGTATAGCACTTTACAGTTTACAAAG 221
+
+  Pc_MSTS010000       5419 TGCCTTTCTCACA 5431
+                           i -     v  i 
+C MIRc#SINE/MIR        220 CG-CTTTCACATA 209
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 24.33
+CpG sites = 8, Kimura (unadjusted) = 26.64
+Transitions / transversions = 1.60 (8/5)
+Gap_init rate = 0.05 (3 / 62), avg. gap size = 1.00 (3 / 3)
+
+387 34.43 0.47 5.45 Pc_MSTS01000033.1.fa 5377 5588 (44413) C MIR1_Amn#SINE/MIR (2) 228 27 m_b1s601i4
+
+  Pc_MSTS010000       5377 AATGATAACTCACTTTTATATAGCACTTTAAGGTTTATAATGTGCCTTTC 5426
+                              i   v  vi  i    i         ----- i  v -  ivv i  
+C MIR1_Amn#SINE        228 AATAATACCTAGCTCTTATGTAGCACTTT-----TCATCA-GTAGATCTC 185
+
+  Pc_MSTS010000       5427 TCACAACTCGGTGAAGTTATTTA-TATAATCACACACACACACTTTTACA 5475
+                           vv vv   iviii   vviv i -   v  i iv v  -----       
+C MIR1_Amn#SINE        184 AAAGCACTTTACAAAGGAGGTCAGTATCATTATCCCCA-----TTTTACA 140
+
+  Pc_MSTS010000       5476 GATGAGGAAATTAAGAGCTACAGAGGTTCAGTGATTAGCCCTTTGACATT 5525
+                                     i i  iv?i v      ?v     i v    vvv v  i?
+C MIR1_Amn#SINE        139 GATGAGGAAACTGAGGCNCAGAGAGGTNAAGTGACTTGCCCAAGGTCACN 90
+
+  Pc_MSTS010000       5526 CAGCTAGTAATTACTAGCCATGCAACTCCAGCTCAGGTCCTCTGACTCCA 5575
+                               ?i i? v ivi  vvvi vi ? ?v i i      ii i  v   v
+C MIR1_Amn#SINE         89 CAGCNGGCNAGTGGCAGAGCCGGGANTNGAACCCAGGTCTCCCGAGTCCC 40
+
+  Pc_MSTS010000       5576 AACCTAGTACTCT 5588
+                            ii i   i    
+C MIR1_Amn#SINE         39 AGTCCAGTGCTCT 27
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 47.37
+CpG sites = 36, Kimura (unadjusted) = 49.36
+Transitions / transversions = 1.09 (36/33)
+Gap_init rate = 0.06 (12 / 211), avg. gap size = 1.00 (12 / 12)
+
+391 34.65 0.00 3.21 Pc_MSTS01000033.1.fa 5429 5589 (44412) C MIR#SINE/MIR (87) 175 20 m_b1s601i5
+
+  Pc_MSTS010000       5429 ACAACTCGGTGAAGTTATTTATATAATCACACACACACACTTTTACAGAT 5478
+                                i vi   i  viv vv   v  i iv v  -----          
+C MIR#SINE/MIR         175 ACAACCCTATGAGGTAGGTACTATTATTATCCCCA-----TTTTACAGAT 131
+
+  Pc_MSTS010000       5479 GAGGAAATTAAGAGCTACAGAGGTTCAGTGATTAGCCCTTTGACATTCAG 5528
+                                  i i  ivvi v       v   i i v    vvv v  iv   
+C MIR#SINE/MIR         130 GAGGAAACTGAGGCACAGAGAGGTTAAGTAACTTGCCCAAGGTCACACAG 81
+
+  Pc_MSTS010000       5529 CTAGTAATTACTAGCCATGCAACTCCAGCTCAGGTCCTCTGACTCCAAAC 5578
+                                  v ivi  vvvi vi i  v i i    ivv    i     i v
+C MIR#SINE/MIR          80 CTAGTAAGTGGCAGAGCCGGGATTCGAACCCAGGCAGTCTGGCTCCAGAG 31
+
+  Pc_MSTS010000       5579 CTAGTACTCTT 5589
+                            iv  i     
+C MIR#SINE/MIR          30 CCCGTGCTCTT 20
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 45.77
+CpG sites = 25, Kimura (unadjusted) = 46.92
+Transitions / transversions = 0.86 (25/29)
+Gap_init rate = 0.03 (5 / 160), avg. gap size = 1.00 (5 / 5)
+
+477 28.10 0.83 0.00 Pc_MSTS01000033.1.fa 5469 5589 (44412) C MIRc#SINE/MIR (124) 144 23 m_b1s601i6
+
+  Pc_MSTS010000       5469 TTTTACAGATGAGGAAATTAAGAGCTACAGAGGTTCAGTGATTAGCCCTT 5518
+                                            i i  ivii v       v     i v    vv
+C MIRc#SINE/MIR        144 TTTTACAGATGAGGAAACTGAGGCTCAGAGAGGTTAAGTGACTTGCCCAA 95
+
+  Pc_MSTS010000       5519 TGACATTCAGCTAGTAATTACTAGCCATGCAACTCCAGCTCAGGTCCT-C 5567
+                           v v  iv          v ivi  vvvi vi    v i i      i - 
+C MIRc#SINE/MIR         94 GGTCACACAGCTAGTAAGTGGCAGAGCCGGGACTCGAACCCAGGTCTTCC 45
+
+  Pc_MSTS010000       5568 TGACTCCAAACCTAGTACTCTT 5589
+                                    ii i   i     
+C MIRc#SINE/MIR         44 TGACTCCAAGTCCAGTGCTCTT 23
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 34.48
+CpG sites = 18, Kimura (unadjusted) = 35.76
+Transitions / transversions = 1.12 (18/16)
+Gap_init rate = 0.01 (1 / 120), avg. gap size = 1.00 (1 / 1)
+
+414 25.51 3.85 4.52 Pc_MSTS01000033.1.fa 6065 6220 (43781) C CR1-3_Croc#LINE/CR1 (628) 2977 2823 m_b1s551i5
+
+  Pc_MSTS010000       6065 TCCAACCTTTGTTTGAACACCTTTAGTGATGGGGAGTCTGTTACCACCTG 6114
+                                   i vi          ii        i     iiiv  iv  iv
+C CR1-3_Croc#LI       2977 TCCAACCTCTTCTTGAACACCTCCAGTGATGGAGAGTCCACAACTTCCCT 2928
+
+  Pc_MSTS010000       6115 AGGCAATCTATTCCACTTATGGCTAGTGGTACT--CA-TTAAGAAGTTTT 6161
+                                i          ---  v  viiv  v  --  - v          
+C CR1-3_Croc#LI       2927 AGGCAGTCTATTCCAC---TGCCTCACTGTTCTAACAGTGAAGAAGTTTT 2881
+
+  Pc_MSTS010000       6162 TACTTACATGGAGCCAA---AAACCTATCACTCTGCAACTTCCACACATT 6208
+                            v vv i  ----    ---       iiviv          v vv    
+C CR1-3_Croc#LI       2880 TCCGGATAT----CCAATCTAAACCTACTTTGCTGCAACTTCAAGCCATT 2835
+
+  Pc_MSTS010000       6209 GTTCCCAGTTCT 6220
+                            v   vv  i  
+C CR1-3_Croc#LI       2834 GGTCCGCGTCCT 2823
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 31.38
+CpG sites = 18, Kimura (unadjusted) = 31.38
+Transitions / transversions = 0.90 (18/20)
+Gap_init rate = 0.06 (10 / 155), avg. gap size = 1.30 (13 / 10)
+
+242 23.91 0.00 0.00 Pc_MSTS01000033.1.fa 6221 6266 (43735) C L3#LINE/CR1 (261) 3838 3793 m_b1s601i7
+
+  Pc_MSTS010000       6221 GTCTTTTGGTACTAAGCAGAATAAGCCTAATCTCTCTTCCACAAGA 6266
+                            i i i   vi i vi         i      i          v  
+C L3#LINE/CR1         3838 GCCCTCTGGAGCCACACAGAATAAGTCTAATCCCTCTTCCACATGA 3793
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 30.13
+CpG sites = 8, Kimura (unadjusted) = 30.13
+Transitions / transversions = 2.67 (8/3)
+Gap_init rate = 0.00 (0 / 45), avg. gap size = 0.0 (0 / 0)
+
+529 26.28 5.11 0.00 Pc_MSTS01000033.1.fa 6443 6579 (43422) MIRc#SINE/MIR 93 236 (32) m_b1s601i8
+
+  Pc_MSTS010000       6443 CCTTAGGCATATCACTTAACCTCTCTGTGC-----TTTTATCATTCATCA 6487
+                               i    vi                v  -----   iv    iii v 
+  MIRc#SINE/MIR         93 CCTTGGGCAAGTCACTTAACCTCTCTGAGCCTCAGTTTCCTCATCTGTAA 142
+
+  Pc_MSTS010000       6488 AATGGGAATAATAATAATTGATCTTCCTATCTCATAAGAGTGCTGTGAAA 6537
+                                 i         vi  vi  v    i    i i iv  i     ii
+  MIRc#SINE/MIR        143 AATGGGGATAATAATACCTGCCCTGCCTACCTCACAGGGTTGTTGTGAGG 192
+
+  Pc_MSTS010000       6538 ATCAAAT--GACAAGGTACTGGAATGAACTTTGAAAATCTTAAA 6579
+                                  --  i  v   ivv   v vi     v   iiv    
+  MIRc#SINE/MIR        193 ATCAAATGAGATAATGTATGTGAAAGCGCTTTGTAAACTGTAAA 236
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 31.96
+CpG sites = 21, Kimura (unadjusted) = 33.08
+Transitions / transversions = 1.40 (21/15)
+Gap_init rate = 0.01 (2 / 136), avg. gap size = 3.50 (7 / 2)
+
+363 28.28 1.00 1.00 Pc_MSTS01000033.1.fa 6712 6811 (43190) C L2d2_3end#LINE/L2 (3) 552 453 m_b1s601i9
+
+  Pc_MSTS010000       6712 AATTAAATTTAACAAATATTTATTATTCACCTACTTTGTGCAAGATACTT 6761
+                              i    i-              ivv i      v        ii   v
+C L2d2_3end#LIN        552 AATCAAATC-AACAAATATTTATTGAGCGCCTACTGTGTGCAAGGCACTG 504
+
+  Pc_MSTS010000       6762 TGCTAGGCACTA-AGGATATACAGTCAAAAATAAAACAGACTTTCTACTC 6810
+                                   i  i-i  iv     ivv  iv    i   viv ii  i i 
+C L2d2_3end#LIN        503 TGCTAGGCGCTGTGGGGGATACAAAGAAGTATAAGACATGGTCCCTGCCC 454
+
+  Pc_MSTS010000       6811 T 6811
+                            
+C L2d2_3end#LIN        453 T 453
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 33.60
+CpG sites = 18, Kimura (unadjusted) = 36.88
+Transitions / transversions = 1.80 (18/10)
+Gap_init rate = 0.02 (2 / 99), avg. gap size = 1.00 (2 / 2)
+
+374 21.01 1.19 3.66 Pc_MSTS01000033.1.fa 6718 6801 (43200) C L2a_3end#LINE/L2 (8) 509 428 m_b1s601i10
+
+  Pc_MSTS010000       6718 ATTTAACAAATATTTATTATTCACCTACTTTGTGCAAGATACTTTGCTAG 6767
+                              i              ivv i      v     v  ii   v v    
+C L2a_3end#LINE        509 ATTCAACAAATATTTATTGAGCGCCTACTATGTGCCAGGCACTGTTCTAG 460
+
+  Pc_MSTS010000       6768 GCACTAAGGATATA-CAGTCAAAAATAAAACAGAC 6801
+                             i  ii     i -    ---i  i         
+C L2a_3end#LINE        459 GCGCTGGGGATACAGCAGT---GAACAAAACAGAC 428
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 21.93
+CpG sites = 11, Kimura (unadjusted) = 25.22
+Transitions / transversions = 1.83 (11/6)
+Gap_init rate = 0.05 (4 / 83), avg. gap size = 1.00 (4 / 4)
+
+293 29.39 8.26 1.55 Pc_MSTS01000033.1.fa 9372 9492 (40509) C L2a_3end#LINE/L2 (4) 513 385 m_b1s601i11
+
+  Pc_MSTS010000       9372 ATTCAACCAAATAAATATTTATTCAATTCTTACTACATGCGAGACACAGT 9421
+                                vi   -i           v iiv i     ii   v  i   v  
+C L2a_3end#LINE        513 ATTCATTCAA-CAAATATTTATTGAGCGCCTACTATGTGCCAGGCACTGT 465
+
+  Pc_MSTS010000       9422 CCTAGACTCTGGGT---CAACAA-AAACAAAAGGGAAGA-----CCTGAT 9462
+                           i    i v     v---  i  i-i       vi  vi -----    vi
+C L2a_3end#LINE        464 TCTAGGCGCTGGGGATACAGCAGTGAACAAAACAGACAAAAGTCCCTGCC 415
+
+  Pc_MSTS010000       9463 GTCAGGAAGTTT-CATTTTACCTGGAAGTAG 9492
+                           v   v i  i  -    i  -v   ii v  
+C L2a_3end#LINE        414 CTCATGGAGCTTACATTCTA-GTGGGGGGAG 385
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 37.10
+CpG sites = 21, Kimura (unadjusted) = 38.51
+Transitions / transversions = 1.50 (21/14)
+Gap_init rate = 0.05 (6 / 120), avg. gap size = 2.00 (12 / 6)
+
+194 22.22 0.00 0.00 Pc_MSTS01000033.1.fa 11458 11493 (38508) L3#LINE/CR1 4045 4080 (19) m_b1s601i12
+
+  Pc_MSTS010000      11458 TTGAACTAGATGAGTTCTGAGGTCACTTCTGATTCT 11493
+                              i         vi   i     v    ii i   
+  L3#LINE/CR1         4045 TTGGACTAGATGACCTCTAAGGTCCCTTCCAACTCT 4080
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 27.57
+CpG sites = 6, Kimura (unadjusted) = 27.57
+Transitions / transversions = 3.00 (6/2)
+Gap_init rate = 0.00 (0 / 35), avg. gap size = 0.0 (0 / 0)
+
+194 11.63 18.60 0.00 Pc_MSTS01000033.1.fa 11459 11501 (38500) L3b_3end#LINE/CR1 1153 1203 (3) m_b1s601i13
+
+  Pc_MSTS010000      11459 TGAACTAGATGAGTTCTGAGGT------CACTTCT--GATTCTATGGTCT 11500
+                             i         vi        ------  v    --           i 
+  L3b_3end#LINE       1153 TGGACTAGATGACCTCTGAGGTCCTTTCCAATTCTGAGATTCTATGGTTT 1202
+
+  Pc_MSTS010000      11501 T 11501
+                            
+  L3b_3end#LINE       1203 T 1203
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 12.73
+CpG sites = 3, Kimura (unadjusted) = 12.73
+Transitions / transversions = 1.50 (3/2)
+Gap_init rate = 0.05 (2 / 42), avg. gap size = 4.00 (8 / 2)
+
+241 33.10 5.23 5.23 Pc_MSTS01000033.1.fa 11538 11690 (38311) C L2d2_3end#LINE/L2 (4) 551 399 m_b1s601i14
+
+  Pc_MSTS010000      11538 ATTAAGT-AATAGATGGTGATTCAGCACTTGCTGTATATGCAGTGTCCCA 11586
+                             i  i -  i i  iv v   v   i i i    i --   iv iv ii
+C L2d2_3end#LIN        551 ATCAAATCAACAAATATTTATTGAGCGCCTACTGTGT--GCAAGGCACTG 504
+
+  Pc_MSTS010000      11587 TCCCAAGTGACTAGTGTAGG---TAAGTTAGTACATGACACAGTTCCTGC 11633
+                            v i i i -  -   vi  ---i  ivv    i v    ii  i     
+C L2d2_3end#LIN        503 TGCTAGGCG-CT-GTGGGGGATACAAAGAAGTATAAGACATGGTCCCTGC 456
+
+  Pc_MSTS010000      11634 CTTCAAGAAGCCTCCAGGATAGT----GAGAAATGACGTTCAATTATGAA 11679
+                            i     i   i v  ivv    ----    v v   i --  vi i vi
+C L2d2_3end#LIN        455 CCTCAAGGAGCTTACAATCTAGTTGGGGAGACAAGACAT--AAACACGTG 408
+
+  Pc_MSTS010000      11680 AAATGAGTTAA 11690
+                              --      
+C L2d2_3end#LIN        407 AAA--AGTTAA 399
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 42.10
+CpG sites = 31, Kimura (unadjusted) = 46.03
+Transitions / transversions = 1.82 (31/17)
+Gap_init rate = 0.07 (11 / 152), avg. gap size = 1.45 (16 / 11)
+
+193 30.86 16.84 2.78 Pc_MSTS01000033.1.fa 11620 11809 (38192) C L2c_3end#LINE/L2 (71) 407 192 m_b1s601i15
+
+  Pc_MSTS010000      11620 GACACAGTTCCTGCCTTCAAGAAGCCTCCAGGATAGTG--------AGAA 11661
+                                i  i      i     i   iiv   vv     --------   v
+C L2c_3end#LINE        407 GACACGGTCCCTGCCCTCAAGGAGCTCACAGTCTAGTGGAGGAGACAGAC 358
+
+  Pc_MSTS010000      11662 ATG---ACGTTCAATTATGAAAAATGAGTTAACA--AAGAACTGT----- 11701
+                            ? ---  ivv      i--  v ii      ii--   vi  i -----
+C L2c_3end#LINE        357 ANGTAAACAGACAATTAC--AATACAAGTTAATGATAAGTGCTATAATGG 310
+
+  Pc_MSTS010000      11702 ---CACAGAT-GGGTGCCATAGAAAAGGAGAGGAGGGAA---AGATCACT 11744
+                           ---i i   i-      i  i i iviv         v ---  ---   
+C L2c_3end#LINE        309 GAGTATAGACAGGGTGCTATGGGAGCACAGAGGAGGGCACCTAG---ACT 263
+
+  Pc_MSTS010000      11745 GGGATATCAATGGTTATAAAAG---TCTTAGAAAAATTGGGACTTGAGCT 11791
+                           i ?v - viiv   i vii   ---  iii  ii iv  iv ii      
+C L2c_3end#LINE        262 AGNCT-TGGGGGGTCAGGGAAGGCTTCCCGGAGGAGGTGACATCTGAGCT 214
+
+  Pc_MSTS010000      11792 GGG---TG-GGCATGAGTAGGA 11809
+                            i ---  -i v          
+C L2c_3end#LINE        213 GAGNCTTGAAGGATGAGTAGGA 192
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 40.83
+CpG sites = 39, Kimura (unadjusted) = 42.99
+Transitions / transversions = 2.17 (39/18)
+Gap_init rate = 0.08 (16 / 189), avg. gap size = 2.38 (38 / 16)
+
+266 28.66 8.76 0.68 Pc_MSTS01000033.1.fa 11682 11818 (38183) C L2d2_3end#LINE/L2 (224) 331 184 m_b1s601i16
+
+  Pc_MSTS010000      11682 ATGAGTTAACAAAGAACTGTCACAGA---TGGGTGCCATAGAAAAGGAGA 11728
+                             v i  iv    vi v  vi     --- ii?   i    i ivvv   
+C L2d2_3end#LIN        331 ATTAATTGCCAAATGAATGGTACAGACAATAANTGCTATAGGAGTTCAGA 282
+
+  Pc_MSTS010000      11729 GGAGGGAAAGATCACT--GGGATATCAATGGTTATAAAAGTCTT---AGA 11773
+                                  i        --   v i-v i    i vii   v   ---i  
+C L2d2_3end#LIN        281 GGAGGGAGAGATCACTNCGGGCTG-GAGTGGTCAGGGAAGGCTTCACGGA 233
+
+  Pc_MSTS010000      11774 AAAATTGGGACTTGAGCTGGG---TG-GGCATGAGTAGGATCTGAAGAG 11818
+                           ii iv   ? i          ---  -i v   i       i  i v  
+C L2d2_3end#LIN        232 GGAGGTGGNATTTGAGCTGGGCCTTGAAGGATGGGTAGGATTTGGATAG 184
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 36.84
+CpG sites = 24, Kimura (unadjusted) = 38.09
+Transitions / transversions = 1.60 (24/15)
+Gap_init rate = 0.04 (6 / 136), avg. gap size = 2.17 (13 / 6)
+
+407 26.21 2.91 0.00 Pc_MSTS01000033.1.fa 12115 12217 (37784) C MIR3#SINE/MIR (21) 187 82 m_b1s601i17
+
+  Pc_MSTS010000      12115 TTAAATTTGGAATGGACCTGAGAGGTCATTTACCTCAACCAA-TCTTTTT 12163
+                            i i vi     v      v    i    i  vii     vv-  v    
+C MIR3#SINE/MIR        187 TCAGAGCTGGAAGGGACCTTAGAGATCATCTAGTCCAACCCCCTCATTTT 138
+
+  Pc_MSTS010000      12164 ATA-ATAAAGGAACTGATATATAGGGAGGCGA-GTGACTTACCCAAGGTC 12211
+                            i -  i i i      viivi  i    i  -       i         
+C MIR3#SINE/MIR        137 ACAGATGAGGAAACTGAGGCCCAGAGAGGTGAAGTGACTTGCCCAAGGTC 88
+
+  Pc_MSTS010000      12212 ACAAAG 12217
+                              v  
+C MIR3#SINE/MIR         87 ACACAG 82
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 33.26
+CpG sites = 17, Kimura (unadjusted) = 33.26
+Transitions / transversions = 1.70 (17/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.00 (3 / 3)
+
+257 30.97 18.58 0.00 Pc_MSTS01000033.1.fa 12160 12272 (37729) C MIRb#SINE/MIR (121) 147 14 m_b1s601i18
+
+  Pc_MSTS010000      12160 TTTTATA-ATAAAGGAACTGATATATAGGGAGGC-GAGTGACTTACCCAA 12207
+                                i -  i i i      viivi  i    i-i   i    i     
+C MIRb#SINE/MIR        147 TTTTACAGATGAGGAAACTGAGGCTCAGAGAGGTTAAGTAACTTGCCCAA 98
+
+  Pc_MSTS010000      12208 GGTCACAAAG-----AA-----------GGTATTTTAACTTGGGCC---C 12238
+                                  v  -----  -----------  v   iv   iii  i --- 
+C MIRb#SINE/MIR         97 GGTCACACAGCTAGTAAGTGGCAGAGCCGGGATTCGAACCCAGGTCTGTC 48
+
+  Pc_MSTS010000      12239 TAATTCTTGAGGGAATATTCTTTCCACTATACCA 12272
+                            i i  ivi  vvvi ii          ii    
+C MIRb#SINE/MIR         47 TGACTCCAAAGCCCGTGCTCTTTCCACTGCACCA 14
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 39.80
+CpG sites = 26, Kimura (unadjusted) = 43.14
+Transitions / transversions = 2.89 (26/9)
+Gap_init rate = 0.04 (5 / 112), avg. gap size = 4.20 (21 / 5)
+
+280 35.01 4.98 1.93 Pc_MSTS01000033.1.fa 12475 12675 (37326) L2#LINE/L2 2581 2787 (295) m_b1s601i19
+
+  Pc_MSTS010000      12475 TTTTCCTC---TCCTACATCCAATATGTCCCTAACTCACATGATTTTTAC 12521
+                              ii   ---i  i         vii  vvi  v  vii vivi i   
+  L2#LINE/L2          2581 TTTCTCTCACACCCCACATCCAATCCATCAGCAAATCCTGTCGGCTCTAC 2630
+
+  Pc_MSTS010000      12522 CTTCAAAATATCTCTAGGATTCACATTA-TCCTGTCCATCCTTGCCTCCC 12570
+                                      v  i  i  i i- ii - i  vv   -   ivv  v  
+  L2#LINE/L2          2631 CTTCAAAATATATCCAGAATCCG-ACCACTTCTCACCA-CCTCCACTGCC 2678
+
+  Pc_MSTS010000      12571 ATAAC---AGTCCAGATCCTCAATACTTCATGCCTAGAAAATTGCAAAAG 12617
+                            iv  ---i     iii vi  vi ii  vi    i  vv i     v  
+  L2#LINE/L2          2679 ACCACCCTGGTCCAAGCCACCATCATCTCTCGCCTGGATTACTGCAATAG 2728
+
+  Pc_MSTS010000      12618 TCTACTAGCTAGTTTCTCTATGTCC-CCTCTCTTTCCCTTC--TCTATAT 12664
+                           i  v   i  i  i  i  iiv   -  ii viii    ? --     - 
+  L2#LINE/L2          2729 CCTCCTAACTGGTCTCCCTGCTTCCACCCTTGCCCCCCTNCAGTCTAT-T 2777
+
+  Pc_MSTS010000      12665 ACCAATCACAG 12675
+                           vi   -     
+  L2#LINE/L2          2778 CTCAA-CACAG 2787
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 47.40
+CpG sites = 45, Kimura (unadjusted) = 50.59
+Transitions / transversions = 1.88 (45/24)
+Gap_init rate = 0.04 (9 / 200), avg. gap size = 1.56 (14 / 9)
+
+256 25.86 0.00 0.00 Pc_MSTS01000033.1.fa 12724 12781 (37220) L2d_3end#LINE/L2 1 58 (458) m_b1s601i20
+
+  Pc_MSTS010000      12724 CTCTAAAATTGGGCCTCACTGTATTTATCCATCTTTATTTCCCACTACTC 12773
+                              i vi  iv    i   iv  ii ?    v i    i           
+  L2d_3end#LINE          1 CTCCACGATCTGGCCCCACCCTACCTNTCCAGCCTTATCTCCCACTACTC 50
+
+  Pc_MSTS010000      12774 CCCAATAC 12781
+                               ii  
+  L2d_3end#LINE         51 CCCAGCAC 58
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 31.41
+CpG sites = 11, Kimura (unadjusted) = 34.23
+Transitions / transversions = 2.75 (11/4)
+Gap_init rate = 0.00 (0 / 57), avg. gap size = 0.0 (0 / 0)
+
+294 19.31 3.33 2.20 Pc_MSTS01000033.1.fa 13450 13539 (36462) C MamRep434#DNA/TcMar-Tigger (6) 420 330 m_b1s502i0
+
+  Pc_MSTS010000      13450 AACCTTGGTGATTTAGACTAATTGGATGCAGTGC-ATTCTAAATTATT-- 13496
+                                iiv i   ii          iv v iv  - v   i     v --
+C MamRep434#DNA        420 AACCTCACTAATTCGGACTAATTGGGGGGAAGGCCAGTCTGAATTAGTGA 371
+
+  Pc_MSTS010000      13497 AAAGTGCTGAATTATAGAATATTTTTAAAAGAAATTCATTCTT 13539
+                                -               -    ?        v  v i  
+C MamRep434#DNA        370 AAAGT-CTGAATTATAGAATA-TTTTNAAAGAAATGCAGTTTT 330
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 21.22
+CpG sites = 9, Kimura (unadjusted) = 22.83
+Transitions / transversions = 1.12 (9/8)
+Gap_init rate = 0.04 (4 / 89), avg. gap size = 1.25 (5 / 4)
+
+349 35.92 3.52 0.00 Pc_MSTS01000033.1.fa 13544 13685 (36316) C L2d2_3end#LINE/L2 (16) 539 393 m_b1s601i21
+
+  Pc_MSTS010000      13544 AAGATTTGTTGCATGTTTACTATGTGTCAACTATTATACTATGAACTTAG 13593
+                             v    i   vii ii    i    iv ivi i i i   v vi  vv 
+C L2d2_3end#LIN        539 AATATTTATTGAGCGCCTACTGTGTGCAAGGCACTGTGCTAGGCGCTGTG 490
+
+  Pc_MSTS010000      13594 GAGGCTACAAAGATGACTAATATACATTCCCTGACTTTAGAGAGTTTATA 13643
+                            i  v        v vv   v i iiv      v i i ii   i   i 
+C L2d2_3end#LIN        489 GGGGATACAAAGAAGTATAAGACATGGTCCCTGCCCTCAAGGAGCTTACA 440
+
+  Pc_MSTS010000      13644 CTCTGGTCAGAGAG-TAAGAT---AACACA-AATAACTTTAATAATA 13685
+                           v   i  ii i   -i    i---     i-i v  v  v     i 
+C L2d2_3end#LIN        439 ATCTAGTTGGGGAGACAAGACATAAACACGTGAAAAGTTAAATAACA 393
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 47.32
+CpG sites = 32, Kimura (unadjusted) = 51.70
+Transitions / transversions = 1.68 (32/19)
+Gap_init rate = 0.02 (3 / 141), avg. gap size = 1.67 (5 / 3)
+
+325 34.18 4.38 3.09 Pc_MSTS01000033.1.fa 13559 13718 (36283) C L2c_3end#LINE/L2 (20) 458 297 m_b1s601i22
+
+  Pc_MSTS010000      13559 TTTACTATGTGTCAACTATTATACTATGAACTTAGGAGGCTACAAAGATG 13608
+                               i iv i i v     -i i i v vi  --- i  v          
+C L2c_3end#LINE        458 TTTATTGAGCGCCTACTAT-GTGCCAGGCGCT---GGGGATACAAAGATG 413
+
+  Pc_MSTS010000      13609 ACTAATATACATTCCCTGACTTTAGAGAGTTTATACTCTGGTCAGAGAGT 13658
+                            v   v i  iv      v i i ii   i i i v   i  viii   v
+C L2c_3end#LINE        412 AATAAGACACGGTCCCTGCCCTCAAGGAGCTCACAGTCTAGTGGAGGAGA 363
+
+  Pc_MSTS010000      13659 AAGATA---ACACAAATAACTTTAATA-ATAT--GTGATAAGTGTCATAA 13702
+                           v   i --- v   i i  i vi    - vi --i         ii    
+C L2c_3end#LINE        362 CAGACANGTAAACAGACAATTACAATACAAGTTAATGATAAGTGCTATAA 313
+
+  Pc_MSTS010000      13703 -GAAAGCCACAAATAGG 13718
+                           - ii  -i i i i   
+C L2c_3end#LINE        312 TGGGAG-TATAGACAGG 297
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 45.24
+CpG sites = 37, Kimura (unadjusted) = 49.23
+Transitions / transversions = 2.31 (37/16)
+Gap_init rate = 0.06 (9 / 159), avg. gap size = 1.33 (12 / 9)
+
+232 10.30 5.05 1.96 Pc_MSTS01000033.1.fa 13982 14080 (35921) RLTR31D_MM#LTR/ERVK 92 193 (234) m_b1s502i1
+
+  Pc_MSTS010000      13982 GACATACA-CAGAGACATAGAGAGAAAAAGAGAAAGAGAGAAGAGAAGAG 14030
+                                v i-      v v       i i     i       -    -   
+  RLTR31D_MM#LT         92 GACATCCGGCAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGA-GAGA-GAG 139
+
+  Pc_MSTS010000      14031 AGAGAGAGAGAGGGAGAGAGAGAAAGAGAGAGAGAGACAAA----GAGAG 14076
+                                       i          i              ?  ---- i  ?
+  RLTR31D_MM#LT        140 AGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGACNAATTCTGGGAN 189
+
+  Pc_MSTS010000      14077 AGAG 14080
+                               
+  RLTR31D_MM#LT        190 AGAG 193
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 10.35
+CpG sites = 7, Kimura (unadjusted) = 11.49
+Transitions / transversions = 2.33 (7/3)
+Gap_init rate = 0.04 (4 / 98), avg. gap size = 1.75 (7 / 4)
+
+294 10.45 0.00 2.75 Pc_MSTS01000033.1.fa 13997 14183 (35818) C RMER17D#LTR/ERVK (414) 475 294 m_b1s502i2
+
+  Pc_MSTS010000      13997 ATAGAGAGAAAAAGAGAAAGAGAGAAGAGAAGAGAGAGAGAGAGAGGGAG 14046
+                                i  iv ii i            iv ii              i   
+C RMER17D#LTR/E        475 ATAGAAAGGCAGGGGGAAAGAGAGAAGGTAGAAGAGAGAGAGAGAGAGAG 426
+
+  Pc_MSTS010000      14047 AGAGAGAAAGAGAGAGAGAGACAAAGAGAGAGAGAGAAAGAGAGAGAGAG 14096
+                               i??              v               i    -       
+C RMER17D#LTR/E        425 AGAGGNNAAGAGAGAGAGAGAGAAAGAGAGAGAGAGAGAGAG-GAGAGAG 377
+
+  Pc_MSTS010000      14097 AGAGAGAAAAAGAGAGAGAGAGAGAAGAGAGAGAGAGAGAGAGAGAGAGA 14146
+                           -     i i               i        -           -    
+C RMER17D#LTR/E        376 -GAGAGGAGAAGAGAGAGAGAGAGGAGAGAGAG-GAGAGAGAGAG-GAGA 330
+
+  Pc_MSTS010000      14147 GAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAA 14183
+                                  -               v           i 
+C RMER17D#LTR/E        329 GAGAGAG-GAGAGAGAGAGAGAGTGAGAGAGAGAGGA 294
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 11.60
+CpG sites = 15, Kimura (unadjusted) = 11.60
+Transitions / transversions = 3.75 (15/4)
+Gap_init rate = 0.03 (5 / 186), avg. gap size = 1.00 (5 / 5)
+
+206 30.39 7.78 3.45 Pc_MSTS01000033.1.fa 15053 15219 (34782) C L2#LINE/L2 (2012) 1070 897 m_b1s601i23
+
+  Pc_MSTS010000      15053 GGAAGGAGTCAATACACTGAAGCTGACAATAAGGGTGAAGAGTAGGTGTA 15102
+                             v    -     iv i  i  v vv ii ii  vi     i v v  v 
+C L2#LINE/L2          1070 GGTAGGA-TCAATGGATTGGAGGTCCCGGTGGGGTCGAAGAATTGTTGGA 1022
+
+  Pc_MSTS010000      15103 ATACAAGTAAGAGAGGGGGATAAG-TATAAGGATGAAGGAGGCTATGCTC 15151
+                           i vvii   vv      i - i  - iv  i   --      ivi  v  
+C L2#LINE/L2          1021 GTCGGGGTACTAGAGGGAG-TGAGCTGGAAAGAT--AGGAGGTGGTGGTC 975
+
+  Pc_MSTS010000      15152 AGACAATGGAAT-TTCAAAGTTCTAGATTTTGGAGGTGGT----GTGATT 15196
+                              v i   i  -i ii  i  v-     v      -   ----  v   
+C L2#LINE/L2           974 AGAGAGTGGGATGCTTGAAATTG-AGATTATGGAGG-GGTTGCAGTTATT 927
+
+  Pc_MSTS010000      15197 G----TG---AGTTCCAAGGTTTAACCATG 15219
+                            ----  ---  v  i i   v i      
+C L2#LINE/L2           926 GGTAATGACAAGGTCTAGGGTATGACCATG 897
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 37.84
+CpG sites = 27, Kimura (unadjusted) = 39.92
+Transitions / transversions = 1.23 (27/22)
+Gap_init rate = 0.07 (11 / 166), avg. gap size = 1.73 (19 / 11)
+
+527 17.33 2.24 9.60 Pc_MSTS01000033.1.fa 15315 15448 (34553) C MIRc#SINE/MIR (142) 126 2 m_b1s601i24
+
+  Pc_MSTS010000      15315 TGAGGCAATCGG---GGTTAATTGACTTGCCCAGGGTCACACAGCTATTA 15361
+                                 --  i ---      v           i             v  
+C MIRc#SINE/MIR        126 TGAGGC--TCAGAGAGGTTAAGTGACTTGCCCAAGGTCACACAGCTAGTA 79
+
+  Pc_MSTS010000      15362 AGTGTCATGTGTCTAAGACTGGATTTGAACTCATGTCCTCCTGACTCCAA 15411
+                               v  -------i  v v   i i    i  v   i            
+C MIRc#SINE/MIR         78 AGTGGCA-------GAGCCGGGACTCGAACCCAGGTCTTCCTGACTCCAA 36
+
+  Pc_MSTS010000      15412 GGCCAGAGTTCTATCCACTGCTCCATCTAGCTGCCCC 15448
+                            v    v i   v        v   i---i     i 
+C MIRc#SINE/MIR         35 GTCCAGTGCTCTTTCCACTGCACCAC---ACTGCCTC 2
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 18.70
+CpG sites = 11, Kimura (unadjusted) = 19.69
+Transitions / transversions = 1.10 (11/10)
+Gap_init rate = 0.10 (13 / 133), avg. gap size = 1.15 (15 / 13)
+
+476 30.23 5.58 4.61 Pc_MSTS01000033.1.fa 15448 15662 (34339) MIRc#SINE/MIR 51 267 (1) m_b1s601i25
+
+  Pc_MSTS010000      15448 CCAGGGTTCAAATCTTAACC--AACACTTCTTACCTCTGCAAGTCCCCTT 15495
+                             v      i i  iiii i--iv     vi  v  v  ii ----- i 
+  MIRc#SINE/MIR         51 CCTGGGTTCGAGTCCCGGCTCTGCCACTTACTAGCTGTGTGA-----CCT 95
+
+  Pc_MSTS010000      15496 TGTGCAAGTCATTTAAATGCCCTCTGCCTCAGTTTCCTTAAATGTAAA-- 15543
+                             v        i    viv i  vv             i vv      --
+  MIRc#SINE/MIR         96 TGGGCAAGTCACTTAACCTCTCTGAGCCTCAGTTTCCTCATCTGTAAAAT 145
+
+  Pc_MSTS010000      15544 GGGCACTATAATACCTCTATTCCTTATCTTATAACATTATCATGATTATC 15593
+                              v iv         vivi v i  i  i i ivi  i ii   vv   
+  MIRc#SINE/MIR        146 GGGGATAATAATACCTGCCCTGCCTACCTCACAGGGTTGTTGTGAGGATC 195
+
+  Pc_MSTS010000      15594 AAATGAGAACAAGGAT---AAAACGC-----AAATCTTAAAGCACTATAA 15635
+                                   vv v v  ---   i   -----   iiv     ii     v
+  MIRc#SINE/MIR        196 AAATGAGATAATGTATGTGAAAGCGCTTTGTAAACTGTAAAGTGCTATAC 245
+
+  Pc_MSTS010000      15636 AAATGCCAGTTGGGATTACATTATTAT 15662
+                                iv ---  ?i  --        
+  MIRc#SINE/MIR        246 AAATGTAA---GGNGTT--ATTATTAT 267
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 38.21
+CpG sites = 35, Kimura (unadjusted) = 39.95
+Transitions / transversions = 1.30 (35/27)
+Gap_init rate = 0.07 (14 / 214), avg. gap size = 1.57 (22 / 14)
+
+215 37.88 1.21 9.17 Pc_MSTS01000033.1.fa 15857 16103 (33898) C L2#LINE/L2 (2551) 531 303 m_b1s601i26
+
+  Pc_MSTS010000      15857 GAGAGAAATAAGAGGCCTCTAACATAGAAGATTGCAAGGAATTTGATACT 15906
+                            i    i v  v  -  v i vivv   i ii    i  i vviii iii
+C L2#LINE/L2           531 GGGAGAGAAAACAG-CCACCACTTGAGAGGGCTGCAGGGGAAGCAGTGTC 483
+
+  Pc_MSTS010000      15907 CTACTGGGAGATTCAGGCTCCAGTTAAAACAAGAAAGTGGGGAAAACTTT 15956
+                             vvv      vi    i i ?    i i      i   ii ii   v  
+C L2#LINE/L2           482 CTCAGGGGAGAGCCAGGTTTCNGTTAGAGCAAGAAGGTGAAGGGAACGTT 433
+
+  Pc_MSTS010000      15957 GACTAGAAAGTTAGAAAAAGAAAGGGTATTTGCTGA-GACTAGA--ATAG 16003
+                           v vvii i  v v  ii vivii   vv        -   -i  --i ii
+C L2#LINE/L2           432 CAGAGAAGAGGTTGAGGATACGGGGGATTTTGCTGATGAC-GGACCGTGA 384
+
+  Pc_MSTS010000      16004 GTATCCTAAAGCACTATGGAATGGTCTAGAAGACAGAATGAGTCTAAAAG 16053
+                             vi vv ii    vi     v   i ------   ---    iviii  
+C L2#LINE/L2           383 GTTCCAGAGGGCACAGTGGAAGGGTTT------CAG---GAGTTGGGGAG 343
+
+  Pc_MSTS010000      16054 GGGCCTGGGGAGGGGTTGGTTTGATTAGAATAGATAATAAATTAGAGCTG 16103
+                              i---     i---   --- i i    ?  ivi  iv -i     i 
+C L2#LINE/L2           342 GGGT---GGGAGA---TGG---GGTCAGAANAGGAGATGTA-CAGAGCCG 303
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 52.72
+CpG sites = 55, Kimura (unadjusted) = 56.84
+Transitions / transversions = 1.83 (55/30)
+Gap_init rate = 0.09 (23 / 246), avg. gap size = 1.04 (24 / 23)
+
+295 34.93 13.11 2.37 Pc_MSTS01000033.1.fa 17010 17619 (32382) L2#LINE/L2 1186 1859 (1223) m_b1s601i27
+
+  Pc_MSTS010000      17010 CTCCCTGGCTCCCTTGTCTTGTGCTTTGTCTACCATTAACCTAGGTTACC 17059
+                              i  v   i v i  vi -i  i v ivv v v?i    iv     vv
+  L2#LINE/L2          1186 CTCTCTCGCTTCGTCGTACT-CGCCTGGCAAAACCNCAACCCTGGTTAAA 1234
+
+  Pc_MSTS010000      17060 TC-AACCATCTACCTTAACATAGCCCCTGG----GTGCTTTTGGACACTG 17104
+                             -   iv  ii   --  viv  v    v---- ?  vvi  i  iiv 
+  L2#LINE/L2          1235 TCCAACTCTCCGCCT--ACTCCGCGCCTGCACCCGNGCAGCTGAACGTGG 1282
+
+  Pc_MSTS010000      17105 TTGGAAGAAGTTACACAACCATTCTGACATGG-----CTACAAATCTGTT 17149
+                           i    ii  ivi          v     -   -----  vi    iii v
+  L2#LINE/L2          1283 CTGGAGAAAAACACACAACCATGCTGAC-TGGTCTCACTTTAAATTCATG 1331
+
+  Pc_MSTS010000      17150 AT--------TTAAGTTGGCCCTTTATTGTTGCATAACAATCCTGCTATT 17191
+                            i-------- i    v       v  - i   viii     ? i   iv
+  L2#LINE/L2          1332 ACCACNAACCTCAAGTGGGCCCTTAAT-GCTGCCCGGCAATCNTACTACA 1380
+
+  Pc_MSTS010000      17192 TTCCCCTGGCTGTCTCCAC-ATCACACTCT-ATAG-CAGTGGCTCCAGAC 17238
+                             i    i - viv i   -v  v      -v   - iiivii i  v  
+  L2#LINE/L2          1381 TTTCCCTAG-TCCATTCACTCTCCCACTCTCCTAGACGACTATTTCACAC 1429
+
+  Pc_MSTS010000      17239 CTTCTCTTCTGTCCTCAAGACT---------------------TTGCTAT 17267
+                                 i   v       iv  --------------------- ii  v 
+  L2#LINE/L2          1430 CTTCTCCTCTCTCCTCAAACCTCCAACACCTCCTCCCCTATCCTCACTCT 1479
+
+  Pc_MSTS010000      17268 CAGCTCAC--CTTTGCCTTCCTATTT-GCTAAGAAAACAGAGGCCACCCA 17314
+                                v i-- i   -          -i  i      i   i  v i vi
+  L2#LINE/L2          1480 CAGCTGATGACCTTG-CTTCCTATTTCACTGAGAAAATAGAAGCAATCAG 1528
+
+  Pc_MSTS010000      17315 TCATGAACTTCCTCTTCTTCCCAGTTCTACA-----CCAC-------AAG 17352
+                           vviv        v v??i     viv i   -----    -------v v
+  L2#LINE/L2          1529 AAGAGAACTTCCACANNCTCCCACCACCACATCTACCCACCTACCTGCAT 1578
+
+  Pc_MSTS010000      17353 ATGTCCTTATATATTTCTCTCCTCCTTAGCTCCAATATCTGACAAA-AAG 17401
+                           v   v ii i   -----   iv    vv    vi vv  -  ii -i i
+  L2#LINE/L2          1579 CTGTGCCCACATA-----CTCTGCCTTCCCTCCTGTTACT-ACGGATGAA 1622
+
+  Pc_MSTS010000      17402 GTAGCTATTCTCCCTGCCAAAGTCAATTCTTCTACTTATGCCTTTAATTC 17451
+                           v iv ii v    ivv i  i i   ii i  i    i   vi vi  i 
+  L2#LINE/L2          1623 CTGTCCGTGCTCCTATCTAAGGCCAACCCCTCCACTTGTGCACTAGATCC 1672
+
+  Pc_MSTS010000      17452 TCTTTGCTCCCAAATCCT-----ATATCTT-----CAATTTTACCA-CCA 17490
+                           iv iiv   i ivv v  ----- i   vi-----     i v  v- iv
+  L2#LINE/L2          1673 CATCCCCTCTCGCCTACTCAAGGACATCGCTCCAGCAATTCTCCCCTCTC 1722
+
+  Pc_MSTS010000      17491 TTTCC-AC-TCTTCAACCTTCAGTCCCTCTCTAACTGCCTGTTTGCTGCT 17538
+                            i   -i -  v    ii  ---          viv viii  iv vv v
+  L2#LINE/L2          1723 TCTCCTGCATCATCAATTTT---TCCCTCTCTACTGGATCATTCCCATCA 1769
+
+  Pc_MSTS010000      17539 GCCTACAAACATGTCCTGGTATC-CCCACCATTA------AAAGGTCTTC 17581
+                             v          iiv ?i v  -    i v   ------   ii ii  
+  L2#LINE/L2          1770 GCATACAAACATGCTGTNATTTCTCCCATCTTTAAAAAACAAAAATTCTC 1819
+
+  Pc_MSTS010000      17582 ACTTGATCCTAAGTCCCC--TCAGCTTTCATTTTATATCT 17619
+                           v     i  i v?     --i     vi iiiii  v   
+  L2#LINE/L2          1820 CCTTGACCCCACNTCCCCCTCCAGCTACCGCCCCATTTCT 1859
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 46.30
+CpG sites = 119, Kimura (unadjusted) = 49.75
+Transitions / transversions = 1.34 (119/89)
+Gap_init rate = 0.06 (37 / 609), avg. gap size = 2.59 (96 / 37)
+
+535 22.51 1.38 8.09 Pc_MSTS01000033.1.fa 17738 17882 (32119) C MIRc#SINE/MIR (123) 145 10 m_b1s601i28
+
+  Pc_MSTS010000      17738 ATTTTACAGATAAGGAAACTGATGC--AAACAGGTTAAGTAACTTGCCCA 17785
+                                      i          v  -- i v         i         
+C MIRc#SINE/MIR        145 ATTTTACAGATGAGGAAACTGAGGCTCAGAGAGGTTAAGTGACTTGCCCA 96
+
+  Pc_MSTS010000      17786 AATTCACATAGGTAGTGAGTGTCTGAAGCCACATTTGAACTCAGGAAGAC 17835
+                            iv     i  v    i    v v  iv viv i i    i    -----
+C MIRc#SINE/MIR         95 AGGTCACACAGCTAGTAAGTGGCAGAGCCGGGACTCGAACCCAGG----- 51
+
+  Pc_MSTS010000      17836 TACTCTACCTGACTCCAGGTCAAGCACTGTGTGCAGTATGGCGCCAC 17882
+                           ---   v          i   v  ii  v v v  v ---  i    
+C MIRc#SINE/MIR         50 ---TCTTCCTGACTCCAAGTCCAGTGCTCTTTCCACT---GCACCAC 10
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 25.80
+CpG sites = 15, Kimura (unadjusted) = 26.80
+Transitions / transversions = 1.00 (15/15)
+Gap_init rate = 0.08 (12 / 144), avg. gap size = 1.08 (13 / 12)
+
+670 22.70 1.42 0.00 Pc_MSTS01000033.1.fa 17994 18134 (31867) MIRc#SINE/MIR 2 144 (124) m_b1s601i29
+
+  Pc_MSTS010000      17994 GAGTCAG-GAGGCACAGTGGATAGAGTGCCAGGCCTGGAGTCAGGAAGAT 18042
+                              v   - v  ii       v    ii ii i i              i
+  MIRc#SINE/MIR          2 GAGGCAGTGTGGTGCAGTGGAAAGAGCACTGGACTTGGAGTCAGGAAGAC 51
+
+  Pc_MSTS010000      18043 GTGAGTTCAAATCCAGCCTCAGACACTTACTAGCTATGTAACCTTGACCA 18092
+                           v  i    i i   v v   v v            i   i      iv  
+  MIRc#SINE/MIR         52 CTGGGTTCGAGTCCCGGCTCTGCCACTTACTAGCTGTGTGACCTTGGGCA 101
+
+  Pc_MSTS010000      18093 AGTCACTTAGCC-CTGTTTATATCAGTTTCCTCGTCTGTAAAA 18134
+                                    i  -  v vviiv           i         
+  MIRc#SINE/MIR        102 AGTCACTTAACCTCTCTGAGCCTCAGTTTCCTCATCTGTAAAA 144
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 26.55
+CpG sites = 19, Kimura (unadjusted) = 27.54
+Transitions / transversions = 1.46 (19/13)
+Gap_init rate = 0.01 (2 / 140), avg. gap size = 1.00 (2 / 2)
+
+1545 34.78 9.91 1.12 Pc_MSTS01000033.1.fa 18232 19301 (30700) L2#LINE/L2 1920 3082 (0) m_b1s601i30
+
+  Pc_MSTS010000      18232 CCTTTCTTCTACTCATTTCTAAACCTGTTCCAATCTAACTT------CCA 18275
+                            ii i  i i i  vi ii i    iii       vii   ------   
+  L2#LINE/L2          1920 CTCTCCTCCCATTCTCTCTTGAACCCACTCCAATCAGGCTTTCGTCCCCA 1969
+
+  Pc_MSTS010000      18276 TCACTCAACTGAAACTACTTTCTCCAAGGTTACCAACAATCTCTTTATTG 18325
+                           i     v  i      i  i ivi      i     ii i   ivii   
+  L2#LINE/L2          1970 CCACTCCACCGAAACTGCTCTTGTCAAGGTCACCAATGACCTCCACGTTG 2019
+
+  Pc_MSTS010000      18326 CTAACTCCGATGACC--TTACTCAGTCCTCATCCTTCTTGA--------- 18364
+                               v   i   ii --  -             i v     ---------
+  L2#LINE/L2          2020 CTAAATCCAATGGTCAATT-CTCAGTCCTCATCTTACTTGACCTNTCAGC 2068
+
+  Pc_MSTS010000      18365 -GCACTTCACAAAATCTGA--ATTTTCTC--TCT-GAG------TTTT-- 18400
+                           -   i  v   v i -   -- i ii   --   -  i------ i  --
+  L2#LINE/L2          2069 AGCATTTGACACAGT-TGATCACTCCCTCCTTCTTGAAACACTTTCTTCA 2117
+
+  Pc_MSTS010000      18401 -TTGGT------GACAATATACTCTTTTGATTCTCTTCCTATCACTCTGA 18443
+                           -    i------    vi i     ii  i  i  i     i v v   i
+  L2#LINE/L2          2118 CTTGGCTTCCAGGACACCACACTCTCCTGGTTTTCCTCCTACCTCACTGG 2167
+
+  Pc_MSTS010000      18444 CTG-----TCTCTGTTTTGGTAGATCATCATTTCTCAT-TCCCTGAT-TA 18486
+                            i -----    v  i ivv v v vi ivi i     -    i  i- v
+  L2#LINE/L2          2168 CCGCTCCTTCTCAGTCTCCTTTGCTGGTTCCTCCTCATCTCCCCGACCTC 2217
+
+  Pc_MSTS010000      18487 TGAATGTCTA------TCAAGGC------CTTGT-CCTCTTCTCTTTTCT 18523
+                            ?  i  ivi------i  i   ------    v-           i   
+  L2#LINE/L2          2218 TNAACGTTGGAGTGCCCCAGGGCTCAGTCCTTGGACCTCTTCTCTTCTCT 2267
+
+  Pc_MSTS010000      18524 CTGTACCTTCTCTTAGGTGATGATATCATCAGTTTTCATGTGTTCAATAA 18573
+                           v v   vi  v  ivvv? i    v     viv i     vv  i  vv 
+  L2#LINE/L2          2268 ATCTACACTCACTCCCTNGGTGATCTCATCCAGTCTCATGGCTTTAAATA 2317
+
+  Pc_MSTS010000      18574 TAATTTCTATGCAAATGATCACCAG--TTATATTT--GGTTCTAGTCTCT 18619
+                           iv  i v     vi    iiv   i--      i --i ii viii    
+  L2#LINE/L2          2318 CCATCTATATGCTGATGACTCCCAAATTTATATCTCCAGCCCGGACCTCT 2367
+
+  Pc_MSTS010000      18620 TTCTTAAGTATCCAGTTCCCCAAAGCCCATCACCTCTTGGATACCTCCAA 18669
+                           ii i i ii-     vii vi v v  v iii   vi v  i i     v
+  L2#LINE/L2          2368 CCCCTGAAC-TCCAGACTCGTATATCCAACTGCCTACTCGACATCTCCAC 2416
+
+  Pc_MSTS010000      18670 TTAGATGACCCATAGGCATCT-AAATTC-------CCAAAATGGAAT--A 18709
+                             i    v iv          -   i i-------      iv   i--v
+  L2#LINE/L2          2417 TTGGATGTCTAATAGGCATCTCAAACTTAACATGTCCAAAACTGAACTCC 2466
+
+  Pc_MSTS010000      18710 TTACCTTCCCTACCCTGAATCCCCCATTCTTTCAGACAACTCT-TCTC-- 18756
+                            v i      --  iii  i iv ivi  iiv   v vv i i-    --
+  L2#LINE/L2          2467 TGATCTTCCC--CCTCAAACCTGCTCCTCCCGCAGTCTTCCCCATCTCAG 2514
+
+  Pc_MSTS010000      18757 TTTAGGATACCATAATCCTTCCAACCCCCCCAGGTTAGCAGCCTCAGAG- 18805
+                            ?v v ii v viv         iiiv i -   ii iv i   ii   -
+  L2#LINE/L2          2515 TNAATGGCAACTCCATCCTTCCAGTTGCTC-AGGCCAAAAACCTTGGAGT 2563
+
+  Pc_MSTS010000      18806 -GTCCTCAATCTGTTCTCTTCCT-TCACA----ATATCGCA--CCATCAG 18847
+                           -i    ii -  vi      i  -     ---- i   -  --       
+  L2#LINE/L2          2564 CATCCTTGA-CTCCTCTCTTTCTCTCACACCCCACATC-CAATCCATCAG 2611
+
+  Pc_MSTS010000      18848 TTGCCAAATCTTGTTAAAACTACCTTTACAATATATCTTGGATTCATCCA 18897
+                           ----      i   iiivv       i v        iv i  i iv   
+  L2#LINE/L2          2612 ----CAAATCCTGTCGGCTCTACCTTCAAAATATATCCAGAATCCGACCA 2657
+
+  Pc_MSTS010000      18898 CTTCTCACC-CCTCACATGACTACCACCCTGGTTCAGAACCTCATCACCT 18946
+                                    -    -  ivi i           i  iiv vi     i  
+  L2#LINE/L2          2658 CTTCTCACCACCTC-CACTGCCACCACCCTGGTCCAAGCCACCATCATCT 2706
+
+  Pc_MSTS010000      18947 CTTGACCATACTATTGTAATAATCTACAGACTGGACTCA--GCTTCCACC 18994
+                             i v iiv i  i  i    ii  v vi     v   v--         
+  L2#LINE/L2          2707 CTCGCCTGGATTACTGCAATAGCCTCCTAACTGGTCTCCCTGCTTCCACC 2756
+
+  Pc_MSTS010000      18995 TTCTCCCTACTCCAAACCATCCTTTCTACAATTGCCAAAA-AACCTTGCT 19043
+                           i iv   iv  ?  iv i  i  ivvi   iiv    i i-i i i vi 
+  L2#LINE/L2          2757 CTTGCCCCCCTNCAGTCTATTCTCAACACAGCAGCCAGAGTGATCCTTTT 2806
+
+  Pc_MSTS010000      19044 AAAGCACGAATCTACCCACATCACT-CTCTGCTCAAGAC----------- 19081
+                              i iii i  vivi  ii     -          i  -----------
+  L2#LINE/L2          2807 AAAACGTAAGTCAGATCATGTCACTCCTCTGCTCAAAACCCTCCAATGGC 2856
+
+  Pc_MSTS010000      19082 --CTCATTGCACCCAGGATAAAATATAAA---CTCACAATGATATTAAAA 19126
+                           -- i   iv   i   ii     vvi   ---  i      iiv vv  i
+  L2#LINE/L2          2857 TTCCCATCTCACTCAGAGTAAAAGCCAAAGTCCTTACAATGGCCTACAAG 2906
+
+  Pc_MSTS010000      19127 GCCTTTTACAACCTGAGATCAGACTCCCTTTCCAAGCTTATTTCATATTA 19176
+                              i vi ii i   ivvi vvii v   i  ii v  i  i  v  ii 
+  L2#LINE/L2          2907 GCCCTACATGATCTGGTCCCCCGTTACCTCTCTGACCTCATCTCCTACCA 2956
+
+  Pc_MSTS010000      19177 TTCACCTTCCCATAGTCTCCATTCTAGCCA-ACTGGCCTATTTACTGCTC 19225
+                           i  v  ii i iivvv    ii  i     -        vi  i   i  
+  L2#LINE/L2          2957 CTCTCCCCCTCGCTCACTCCGCTCCAGCCACACTGGCCTCCTTGCTGTTC 3006
+
+  Pc_MSTS010000      19226 CCTGAATTTGGCATTCCATCTTACACCTCCACACATTTGCACAGGATGTT 19275
+                            ii   ivi v  vv vvv  iv i    vivi v       vv v    
+  L2#LINE/L2          3007 CTCGAACACGCCAGGCACGCTCCCGCCTCAGGGCCTTTGCACTTGCTGTT 3056
+
+  Pc_MSTS010000      19276 CTTCATGGCTGGCACCAACTTCTTCC 19301
+                            iiiv  v    v  vvv    ii  
+  L2#LINE/L2          3057 CCCTCTGCCTGGAACGCTCTTCCCCC 3082
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 46.77
+CpG sites = 238, Kimura (unadjusted) = 49.93
+Transitions / transversions = 1.83 (238/130)
+Gap_init rate = 0.05 (49 / 1069), avg. gap size = 2.43 (119 / 49)
+
+506 34.60 7.28 0.36 Pc_MSTS01000033.1.fa 19131 19391 (30610) L2d2_3end#LINE/L2 2 280 (275) m_b1s601i31
+
+  Pc_MSTS010000      19131 TTTACAACCTGAGATCAGACTCCCTTTCCAAGCTTATTTCATATTATTCA 19180
+                            ii  i i   ivvi  iv  ?        iv     i  vi i     v
+  L2d2_3end#LIN          2 TCCACGATCTGGCCCCAACCTNCCTTTCCAGCCTTATCTCCCACTATTCC 51
+
+  Pc_MSTS010000      19181 CCTTCCCATAGTCTCCATTCTAGCC-AACTGGCCTATTTACTGCTCCCTG 19229
+                              ? v iv vi    ii  i    -      i   i i    ii   i 
+  L2d2_3end#LIN         52 CCTNCACGAACCCTCCGCTCCAGCCAAACTGGTCTACTCACTGTCCCCCG 101
+
+  Pc_MSTS010000      19230 AATTTGGCATTCCATCTT-ACACCTCCACACATTTGCACAGGATGTTCTT 19278
+                             ivi-  v  v ii?  -v i    ii i v     v  v vi    ii
+  L2d2_3end#LIN        102 AACAC-GCCTTGCGCNTTCCCGCCTCTGCGCCTTTGCTCACGCCGTTCCC 150
+
+  Pc_MSTS010000      19279 CATGGCTGG---------CACCAACTTCT-------TCCAATTCTTAGGT 19312
+                            vi v    --------- v  vv i   -------     v  i  vvi
+  L2d2_3end#LIN        151 CCCGCCTGGAATGCCCTTCCCCTTCCTCTCCACCTATCCAAATCCTACCC 200
+
+  Pc_MSTS010000      19313 -TCTTTCAAGGTTCAGCTCAGGTTACAATTCTTACGGGAAGCCATTCCTT 19361
+                           -  i       ii       ii ?v  vi  i v  v      v i   v
+  L2d2_3end#LIN        201 ATCCTTCAAGGCCCAGCTCAAATNCCACCTCCTCCGTGAAGCCTTCCCTG 250
+
+  Pc_MSTS010000      19362 ATTTTACTAGCTGCTAGCGTACTGTCCTTC 19391
+                            iiviv i   ivv?  i vv  v   i  
+  L2d2_3end#LIN        251 ACCACTCCAGCCCGNAGTGATCTCTCCCTC 280
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 42.15
+CpG sites = 52, Kimura (unadjusted) = 49.54
+Transitions / transversions = 1.37 (52/38)
+Gap_init rate = 0.02 (6 / 260), avg. gap size = 3.33 (20 / 6)
+
+275 28.75 2.47 1.22 Pc_MSTS01000033.1.fa 19407 19487 (30514) L2d2_3end#LINE/L2 425 506 (49) m_b1s601i32
+
+  Pc_MSTS010000      19407 TCTTCTCAG-TAGAATCTAAGTTCCTTGAGGGAAAGGATTGTATTTTATT 19455
+                              i i  i-    v v    i          v i   iii i i    v
+  L2d2_3end#LIN        425 TCTCCCCAACTAGATTGTAAGCTCCTTGAGGGCAGGGACCATGTCTTATA 474
+
+  Pc_MSTS010000      19456 TTGTCTCTTTATCCTCT-CTGTATCTAGCACAG 19487
+                           i -   i v     i i- v iii         
+  L2d2_3end#LIN        475 CT-TCTTTGTATCCCCCACAGCGCCTAGCACAG 506
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 36.28
+CpG sites = 17, Kimura (unadjusted) = 38.72
+Transitions / transversions = 2.83 (17/6)
+Gap_init rate = 0.04 (3 / 80), avg. gap size = 1.00 (3 / 3)
+
+558 23.48 2.68 4.08 Pc_MSTS01000033.1.fa 19537 19909 (30092) L3#LINE/CR1 3722 4089 (10) m_b1s601i33
+
+  Pc_MSTS010000      19537 GGAATGTTTATCC---AGAAGAGAAGACTTTTAGAGGT----TGAGATCT 19579
+                             i       v  ---              --     v----   v v  
+  L3#LINE/CR1         3722 GGGATGTTTAGCCTGGAGAAGAGAAGACTT--AGAGGAGACATGATAGCT 3769
+
+  Pc_MSTS010000      19580 GTCTTTATGTTGTTGAACAGTCATCATATGGGATGAGCAATAAGCAGCTT 19629
+                                i vi vv     vi iii    i   i -   vi  v  --i   
+  L3#LINE/CR1         3770 GTCTTCAAATATTTGAAGGGCTGTCATGTGGAA-GAGGGATTAG--ACTT 3816
+
+  Pc_MSTS010000      19630 GCTTTTCTTGGTCCCAGAGGGCCAAAGCAGATATAATGGGCAGCAGCTGA 19679
+                           ii i viv   ii         vi  vi  ivvi      ii v  i iv
+  L3#LINE/CR1         3817 ATTCTGTGTGGCTCCAGAGGGCAGAACTAGGACCAATGGGTGGAAGTTAC 3866
+
+  Pc_MSTS010000      19680 AAAG-GTCAGATATACGCTTCAAGTATGGGGGGAAAAAAACCCCAAACTT 19728
+                            ii - v     - v  vi    -   ii  ----  i   ii----ii 
+  L3#LINE/CR1         3867 AGGGAGGCAGAT-TTCGGCTCAA-TATAAGG----AAGAACTT----TCT 3906
+
+  Pc_MSTS010000      19729 CACAATTATAGCTGTTCCAAATNNNNNNNNNNNNNNNNNNNNNNNNNNNN 19778
+                           v     i v      i v   v????????????????? ??????????
+  L3#LINE/CR1         3907 AACAATCAGAGCTGTCCAAAAATGGAATGGGCTGCCTCGNGAGGTAGTGA 3956
+
+  Pc_MSTS010000      19779 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN 19828
+                           ??????????????????????????????????????????????????
+  L3#LINE/CR1         3957 GCTCCCCGTCACTGGAGGTGTTCAAGCAGAGGCTGGATGACCACTTGTCA 4006
+
+  Pc_MSTS010000      19829 NNNNNNTTGCAAAAAGGGCTGCTGT-TCAAGTCTG-GGTTGAGCTAGACG 19876
+                           ??????   i i  i  ii v   i- iiii vv -     ii     i 
+  L3#LINE/CR1         4007 GGGATGTTGTAGAAGGGATTCCTGCATTGGATGGGAGGTTGGACTAGATG 4056
+
+  Pc_MSTS010000      19877 GTCTCTGAGGGCCCTTCCAAATCTGAGATTTTG 19909
+                           ii    i   v         v         i  
+  L3#LINE/CR1         4057 ACCTCTAAGGTCCCTTCCAACTCTGAGATTCTG 4089
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 41.20
+CpG sites = 54, Kimura (unadjusted) = 41.20
+Transitions / transversions = 1.80 (54/30)
+Gap_init rate = 0.05 (20 / 372), avg. gap size = 1.25 (25 / 20)
+
+261 36.90 0.00 0.00 Pc_MSTS01000033.1.fa 19751 19834 (30167) CR1-3_Croc#LINE/CR1 2913 2996 (609) m_b1s551i6
+
+  Pc_MSTS010000      19751 TAGAATGAGTTGCTTCAGGAGGTAATGAGTTCTTCATTACTGGAGGCCTT 19800
+                            i    iiii   i vi   i  vi  iii   i   i        iv  
+  CR1-3_Croc#LI       2913 TGGAATAGACTGCCTAGGGAAGTTGTGGACTCTCCATCACTGGAGGTGTT 2962
+
+  Pc_MSTS010000      19801 CAAGTACAAACTGGATGACCACTTTCCAGAGATG 19834
+                               v v iii    iii     vvi i i    
+  CR1-3_Croc#LI       2963 CAAGAAGAGGTTGGACAGCCACTGGTCGGGGATG 2996
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 54.72
+CpG sites = 24, Kimura (unadjusted) = 57.73
+Transitions / transversions = 3.43 (24/7)
+Gap_init rate = 0.00 (0 / 83), avg. gap size = 0.0 (0 / 0)
+
+345 26.22 3.67 10.78 Pc_MSTS01000033.1.fa 19914 20131 (29870) C MamRep434#DNA/TcMar-Tigger (112) 314 111 m_b1s502i3
+
+  Pc_MSTS010000      19914 ATACATTAATTCAA--TAGAATAAGAAAAAATGTGCCTAGAAATGGTCTT 19961
+                                v   i  i --   iv   v   ivi -    v  v iv    i 
+C MamRep434#DNA        314 ATACAGTAACTCGAACTAGGCTAACAAAGTGT-TGCCAAGTAGAGGTCCT 266
+
+  Pc_MSTS010000      19962 TAAGCT--ACTTACTTTAATGAATG----ACAATTATTTGTAATTAGTAT 20005
+                           ---   --  i i           i---- v   ?            i  
+C MamRep434#DNA        265 ---GCTGGACCTGCTTTAATGAATAGATAAGAATNATTTGTAATTAGCAT 219
+
+  Pc_MSTS010000      20006 ATAAATTAACCGTGCATTAACGGGTATCTCTAAAGTGTTTGAGAGTACAT 20055
+                             v     vii  iiiiv  i  i iii         i    i --   v
+C MamRep434#DNA        218 ATTAATTATTTGTATGCAAATGGATGCTTCTAAAGTGCTTGAAA--ACAG 171
+
+  Pc_MSTS010000      20056 TTCTACTGTGCTTGAGTTAAGATAGTTATGCATTTTAAACATTTACTCTT 20105
+                             ----   v  i---     -   ---- ----         iv ii v
+C MamRep434#DNA        170 TT----TGTTCTC---TTAAG-TAG----G----TTAAACATTCCCCTTG 137
+
+  Pc_MSTS010000      20106 TAATTTCATTTATGCTACTAATCTGC 20131
+                           i   i ii    ii   i    i   
+C MamRep434#DNA        136 CAATCTTGTTTACACTATTAATTTGC 111
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 32.89
+CpG sites = 36, Kimura (unadjusted) = 33.72
+Transitions / transversions = 2.40 (36/15)
+Gap_init rate = 0.12 (25 / 217), avg. gap size = 1.20 (30 / 25)
+
+274 21.51 1.33 7.04 Pc_MSTS01000033.1.fa 21113 21187 (28814) MIR#SINE/MIR 113 183 (79) m_b1s601i34
+
+  Pc_MSTS010000      21113 CTGTGCCTCAGTCTCTCCATCTGTAAAATGAGGGCCATAGGAATTGTA-C 21161
+                                       i  ii             i  ---   iv   v   - 
+  MIR#SINE/MIR         113 CTGTGCCTCAGTTTCCTCATCTGTAAAATGGGG---ATAATAATAGTACC 159
+
+  Pc_MSTS010000      21162 TACCAGGTTCAGGATTCCTGTAAGAA 21187
+                               vvi --   i  vi   i  i 
+  MIR#SINE/MIR         160 TACCTCAT--AGGGTTGTTGTGAGGA 183
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 25.95
+CpG sites = 10, Kimura (unadjusted) = 25.95
+Transitions / transversions = 2.00 (10/5)
+Gap_init rate = 0.08 (6 / 74), avg. gap size = 1.00 (6 / 6)
+
+341 24.96 7.41 3.57 Pc_MSTS01000033.1.fa 21273 21380 (28621) L2a_3end#LINE/L2 406 517 (0) m_b1s601i35
+
+  Pc_MSTS010000      21273 CTTGATGAGAGCCGAGATTATTTTTTCTTTGTTTTGT---CT-TTGT--- 21315
+                             iv     i  v i  i ----   v i        ---  -i   ---
+  L2a_3end#LINE        406 CTCCATGAGGGCAGGGACT----TTTGTCTGTTTTGTTCACTGCTGTATC 451
+
+  Pc_MSTS010000      21316 -CTAGACTTTAGAACAGTGCCCAGCATACTGTAGGTGTTTAATAAATACT 21364
+                           - i  vvii            ii   i iv     i i i        i 
+  L2a_3end#LINE        452 CCCAGCGCCTAGAACAGTGCCTGGCACATAGTAGGCGCTCAATAAATATT 501
+
+  Pc_MSTS010000      21365 TTTTGGATGATTGAAT 21380
+                            v   i    v     
+  L2a_3end#LINE        502 TGTTGAATGAATGAAT 517
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 30.20
+CpG sites = 18, Kimura (unadjusted) = 31.68
+Transitions / transversions = 2.25 (18/8)
+Gap_init rate = 0.07 (8 / 107), avg. gap size = 1.50 (12 / 8)
+
+241 30.95 3.53 1.15 Pc_MSTS01000033.1.fa 21567 21651 (28350) C MamRTE1#LINE/RTE-BovB (1576) 2236 2150 m_b1s601i36
+
+  Pc_MSTS010000      21567 TAATTACCATAATTAATTTT-TC-CCTTTTTTGTC-ATGTTAGACAATGG 21613
+                             i  i  ii i i ii   -  -     i  v i- v v i -ii   i
+C MamRTE1#LINE/       2236 TAGTTGCCGCAGTCAGCTTTCTCGCCTTTCTTCTTGAAGATGG-TGATGA 2188
+
+  Pc_MSTS010000      21614 TACTAGCATCTTTAAAATCTTGAGGTATTTTCCCAGTA 21651
+                             v i        i     i  v  i    i i i   
+C MamRTE1#LINE/       2187 TAGTGGCATCTTTGAAATCCTGCGGCATTTCCTCGGTA 2150
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 39.52
+CpG sites = 21, Kimura (unadjusted) = 44.16
+Transitions / transversions = 4.20 (21/5)
+Gap_init rate = 0.05 (4 / 84), avg. gap size = 1.00 (4 / 4)
+
+530 26.70 5.22 2.17 Pc_MSTS01000033.1.fa 21930 22063 (27938) MIRc#SINE/MIR 6 143 (125) m_b1s601i37
+
+  Pc_MSTS010000      21930 CAAGATGATGTAATGAAAAATAGCATTGAATTTG----CAATAAAATTTG 21975
+                             ivi  i  i i  i   i-    i  i i   ----  iv  i ii  
+  MIRc#SINE/MIR          6 CAGTGTGGTGCAGTGGAAAG-AGCACTGGACTTGGAGTCAGGAAGACCTG 54
+
+  Pc_MSTS010000      21976 AATTTTAATCCTGGTTTT---ATTTACTGGCTCTGTGATCTTGGGCAAAT 22022
+                           ii  iv i   i  i i --- i     i   v     i         i 
+  MIRc#SINE/MIR         55 GGTTCGAGTCCCGGCTCTGCCACTTACTAGCTGTGTGACCTTGGGCAAGT 104
+
+  Pc_MSTS010000      22023 CACTTAGCCTAGCTAGGCTTCAGTTTCCTCATTCTGATAAA 22063
+                                 i   vv  ii  i            -    -    
+  MIRc#SINE/MIR        105 CACTTAACCTCTCTGAGCCTCAGTTTCCTCA-TCTG-TAAA 143
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 33.31
+CpG sites = 29, Kimura (unadjusted) = 35.93
+Transitions / transversions = 4.83 (29/6)
+Gap_init rate = 0.04 (5 / 133), avg. gap size = 2.00 (10 / 5)
+
+433 23.17 15.11 0.63 Pc_MSTS01000033.1.fa 21969 22107 (27894) MIR3#SINE/MIR 45 203 (5) m_b1s601i38
+
+  Pc_MSTS010000      21969 AAATTTGAATTTTAATCCTGGTTTT---ATTTACTGGCTCTGTGATCTTG 22015
+                            i ii  ii  i  i   i  i i --- i v   ?   v     i    
+  MIR3#SINE/MIR         45 AGACCTGGGTTCTAGTCCCGGCTCTGCCACTAACTNGCTGTGTGACCTTG 94
+
+  Pc_MSTS010000      22016 GGCAAATCACTTAGCCTAGCTAGGCTTCAGTTTCCTCATTCTG----ATA 22061
+                                i      vi   vv  i   i            -    ----  i
+  MIR3#SINE/MIR         95 GGCAAGTCACTTCACCTCTCTGGGCCTCAGTTTCCTCA-TCTGTAAAATG 143
+
+  Pc_MSTS010000      22062 AAGCTCTT----TAG-----CTTT----TCCCTTCCAGCTCCAAC-TCCT 22097
+                            i vvv  ----   -----  i ----             ii  - i  
+  MIR3#SINE/MIR        144 AGGGGGTTGGACTAGATGATCTCTAAGGTCCCTTCCAGCTCTGACATTCT 193
+
+  Pc_MSTS010000      22098 ATGAACCTAT 22107
+                               vi    
+  MIR3#SINE/MIR        194 ATGATTCTAT 203
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 28.10
+CpG sites = 23, Kimura (unadjusted) = 29.18
+Transitions / transversions = 2.56 (23/9)
+Gap_init rate = 0.05 (7 / 138), avg. gap size = 3.14 (22 / 7)
+
+421 21.22 13.95 1.38 Pc_MSTS01000033.1.fa 22312 22440 (27561) C MIRc#SINE/MIR (6) 262 118 m_b1s601i39
+
+  Pc_MSTS010000      22312 AATAATAACTTACCTTTTATATAGCAT-----AGCT--CAAAGTCCTTT- 22353
+                                i?v     v   -i       i-----  i --     iv    -
+C MIRc#SINE/MIR        262 AATAACNCCTTACATTT-GTATAGCACTTTACAGTTTACAAAGCGCTTTC 214
+
+  Pc_MSTS010000      22354 ACATACATTACTTCAT--GA--------GCAGCCTCGTGGGAGTTGGTTC 22393
+                                     ii    --  --------i  i  ii   i -  v  ivv
+C MIRc#SINE/MIR        213 ACATACATTATCTCATTTGATCCTCACAACAACCCTGTGAG-GTAGGCAG 165
+
+  Pc_MSTS010000      22394 GGTACATATTGTCATCCACATTTTACAGATGAGGAAACTGAGGTTTA 22440
+                             i vi    i i    v                         i i 
+C MIRc#SINE/MIR        164 GGCAGGTATTATTATCCCCATTTTACAGATGAGGAAACTGAGGCTCA 118
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 25.00
+CpG sites = 19, Kimura (unadjusted) = 26.11
+Transitions / transversions = 2.38 (19/8)
+Gap_init rate = 0.05 (7 / 128), avg. gap size = 2.86 (20 / 7)
+
+184 26.00 1.96 1.96 Pc_MSTS01000033.1.fa 22958 23008 (26993) L3#LINE/CR1 4045 4095 (4) m_b1s601i40
+
+  Pc_MSTS010000      22958 TTGAACGAGTTGATTCGCTAAGATCCTTTCCAAGTCTAAG-TCTTGCGAT 23006
+                              i  v  v   i- v     i   i      v   i  - ii  i   
+  L3#LINE/CR1         4045 TTGGACTAGATGAC-CTCTAAGGTCCCTTCCAACTCTGAGATTCTGTGAT 4093
+
+  Pc_MSTS010000      23007 CC 23008
+                           i 
+  L3#LINE/CR1         4094 TC 4095
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 33.35
+CpG sites = 9, Kimura (unadjusted) = 33.35
+Transitions / transversions = 2.25 (9/4)
+Gap_init rate = 0.04 (2 / 50), avg. gap size = 1.00 (2 / 2)
+
+199 33.11 0.89 5.61 Pc_MSTS01000033.1.fa 28983 29094 (20907) C L2d_3end#LINE/L2 (0) 516 410 m_b1s601i41
+
+  Pc_MSTS010000      28983 TCAATCAATCAATCAGGAAGTATTTATCAAA-AACTGTTATGTGAAAGGC 29031
+                                          iv          ii i-iv  ii      vvvi  
+C L2d_3end#LINE        516 TCAATCAATCAATCAACAAGTATTTATTGAGCGCCTACTATGTGCTCAGC 467
+
+  Pc_MSTS010000      29032 AGTAGACTAGAAGGTGGAGGTACAAACAGGTAAGAAAGTCAATAGAACTT 29081
+                            v ivi    iv v  vi  ---i   - i?  i ?   --   ii  v 
+C L2d_3end#LINE        466 ACTGTGCTAGGCGCTGTGGG---GAAC-GANAAAANAGT--ATAAGACAT 423
+
+  Pc_MSTS010000      29082 TATTACAACTCTC 29094
+                           vi iv vi i   
+C L2d_3end#LINE        422 GGTCCCTGCCCTC 410
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 44.66
+CpG sites = 21, Kimura (unadjusted) = 46.50
+Transitions / transversions = 1.50 (21/14)
+Gap_init rate = 0.06 (7 / 111), avg. gap size = 1.00 (7 / 7)
+
+643 25.56 5.68 2.20 Pc_MSTS01000033.1.fa 29101 29276 (20725) C MIR3#SINE/MIR (7) 201 20 m_b1s601i42
+
+  Pc_MSTS010000      29101 AGAAATTCATAGA-TTTC-TAATTAGAAGGAACCTTAAAGGTCATCCAGT 29148
+                               --       - v  -v ii i     i      i  i     i   
+C MIR3#SINE/MIR        201 AGAA--TCATAGAATGTCAGAGCTGGAAGGGACCTTAGAGATCATCTAGT 154
+
+  Pc_MSTS010000      29149 TCAGTTGTCGCATTCTACCAATTAAGAAGCTGAAGTCTACAGAGGTTAAG 29198
+                           i  iiivi v    i   vi  v i   i    i i i v      v   
+C MIR3#SINE/MIR        153 CCAACCCCCTCATTTTACAGATGAGGAAACTGAGGCCCAGAGAGGTGAAG 104
+
+  Pc_MSTS010000      29199 TGATTTGCCCAAGGTCA-ATA-------AATAGCAGAGCCAGGATTTGAA 29240
+                              i             - i ------- i i        i   i v   
+C MIR3#SINE/MIR        103 TGACTTGCCCAAGGTCACACAGCNAGTTAGTGGCAGAGCCGGGACTAGAA 54
+
+  Pc_MSTS010000      29241 ACTATGTCCTTTGACTCCAAAATCCAGAGCTCTATC 29276
+                           v i v   iii       -v i   - v     v  
+C MIR3#SINE/MIR         53 CCCAGGTCTCCTGACTCC-CAGTCC-GTGCTCTCTC 20
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 31.66
+CpG sites = 30, Kimura (unadjusted) = 32.57
+Transitions / transversions = 2.14 (30/14)
+Gap_init rate = 0.05 (8 / 175), avg. gap size = 1.75 (14 / 8)
+
+497 25.94 7.58 0.71 Pc_MSTS01000033.1.fa 29159 29290 (20711) C MIR#SINE/MIR (120) 142 2 m_b1s601i43
+
+  Pc_MSTS010000      29159 CATTCTACCAATTAAGAAGCTGAAGTCTACAGAGGTTAAGTGATTTGCCC 29208
+                               i   vi  v i   i    i ivi v           i i      
+C MIR#SINE/MIR         142 CATTTTACAGATGAGGAAACTGAGGCACAGAGAGGTTAAGTAACTTGCCC 93
+
+  Pc_MSTS010000      29209 AAGGTC--------AATAAATAGCAGAGCCAGGATTTGAAACTATGTCCT 29250
+                                 -------- i   i i        i     i   v i v ivv 
+C MIR#SINE/MIR          92 AAGGTCACACAGCTAGTAAGTGGCAGAGCCGGGATTCGAACCCAGGCAGT 43
+
+  Pc_MSTS010000      29251 TTGACTCCAAAATCCAGAGCTC-TATCCCTTATTCTA-ACTG 29290
+                           i  i     i ii  - v    -  v  vi   v   -    
+C MIR#SINE/MIR          42 CTGGCTCCAGAGCCC-GTGCTCTTAACCACTATGCTATACTG 2
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 30.60
+CpG sites = 22, Kimura (unadjusted) = 32.94
+Transitions / transversions = 1.83 (22/12)
+Gap_init rate = 0.03 (4 / 131), avg. gap size = 2.75 (11 / 4)
+
+506 30.50 1.38 6.76 Pc_MSTS01000033.1.fa 29341 29558 (20443) L3#LINE/CR1 2696 2902 (1197) m_b1s601i44
+
+  Pc_MSTS010000      29341 AATTTGATTCTTTGTTTTCAGAAAAGGGAAAATAATGAACTTTACAA--T 29388
+                              v ?i ? i v?    - i   i  i    vi   i i i i?  -- 
+  L3#LINE/CR1         2696 AATGTNGTNCCTANTTTT-AAAAAGGGAAAAAAGATGGATTCTGNAAACT 2744
+
+  Pc_MSTS010000      29389 GTGGCTAGCTAACTAGCTAGACTTAAAATCCTGGTAAAATTCCAGAACAT 29438
+                           iii viv v   ---   v   v vi vi  i  i       i     iv
+  L3#LINE/CR1         2745 ACAGACCGGTAA---GCTTGACGTCGATCCCCGGCAAAATTCTAGAACGG 2791
+
+  Pc_MSTS010000      29439 TCTATTGAA-GGGTGGCTGGTGAATAGCTAGAAAAGGAAATGGTGATCAT 29487
+                           vi    i  -i i   i v    ii vi           ii        i
+  L3#LINE/CR1         2792 ATTATTAAACAGATGGTTTGTGAGCACTTAGAAAAGGAAGCGGTGATCAC 2841
+
+  Pc_MSTS010000      29488 TAAGAGGTCACATGACTGGGGGGGGTAGAGGGGAGAAGAAGCCATACCAG 29537
+                             i   vivi  ----    vvviv  ------    v   i   i   i
+  L3#LINE/CR1         2842 TAGGAGCCAGCA----TGGGTTCACTA------AGAACAAGTCATGCCAA 2881
+
+  Pc_MSTS010000      29538 ATTAACCTCATACCCTTTTTT 29558
+                            i         vi        
+  L3#LINE/CR1         2882 ACTAACCTCATTTCCTTTTTT 2902
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 38.33
+CpG sites = 40, Kimura (unadjusted) = 41.88
+Transitions / transversions = 1.82 (40/22)
+Gap_init rate = 0.07 (16 / 217), avg. gap size = 1.06 (17 / 16)
+
+743 30.25 12.86 6.92 Pc_MSTS01000033.1.fa 29911 30773 (19228) C L3#LINE/CR1 (1189) 2910 2000 m_b1s601i45
+
+  Pc_MSTS010000      29911 ATCCTGCCAAAAAAGGAAATGGGGTTATTCTGACGTGAGCTTTTTTTTTT 29960
+                            i   ii              i     v i  i i   -   v  i  --
+C L3#LINE/CR1         2910 ACCCTATCAAAAAAGGAAATGAGGTTAGTTTGGCATGA-CTTGTTCTT-- 2864
+
+  Pc_MSTS010000      29961 TAACCAAGCCCTAAACC-ATACTAGCCTTTTGTGATCATGGCCCCCCT-- 30007
+                           ------  --- i    -  i  i  iii v       iv  ii  i --
+C L3#LINE/CR1         2863 ------AG---TGAACCCATGCTGGCTCCTAGTGATCACCGCTTCCTTTT 2823
+
+  Pc_MSTS010000      30008 -------------AACCATCT---TAATAATACCTTCTATAATTTTCACA 30041
+                           -------------        ---       v v     v      vv i
+C L3#LINE/CR1         2822 CTAAGTGCTCACAAACCATCTGTTTAATAATCCGTTCTAGAATTTTGCCG 2773
+
+  Pc_MSTS010000      30042 GGAATTATATTCAAACTTATGGGCCAG--GCATCCCGCAGCCTTCATTTT 30089
+                             i  iivvv    i    iv  i v -- iv ? v v v  v  v    
+C L3#LINE/CR1         2772 GGGATCGACGTCAAGCTTACCGGTCTGTAGTTTNCAGAATCCATCTTTTT 2723
+
+  Pc_MSTS010000      30090 CCTCTTC----AATT--------CATTTCTCCTTTTCCAGTCCTTTAGCG 30127
+                           i i   i----  ? --------     vi  v i       i i i  i
+C L3#LINE/CR1         2722 TCCCTTTTTAAAANTAGGNACNACATTTGCCCGTCTCCAGTCTTCTGGCA 2673
+
+  Pc_MSTS010000      30128 TGCCTCCTATTCCTCAAAACCTTTCATAGGTTAATGACG------CTGCG 30171
+                           ivi  i ii   ii ivi ii i   v  i   vi   i------ i   
+C L3#LINE/CR1         2672 CCTCTTCCGTTCTCCGTGATTTCTCAAAGATTACCGACAGCGGTTCCGCG 2623
+
+  Pc_MSTS010000      30172 ACTAAACCCTCCTGTTGTTGTAGAATCCTAAGAT-TAA---GTTTGA--- 30214
+                            ii v i iv vv   v  vi  v i   ii   -   ---  i  i---
+C L3#LINE/CR1         2622 ATCACATCTGCAAGTTCTTTCAGTACCCTGGGATGTAATTCGTCTGGGCC 2573
+
+  Pc_MSTS010000      30215 CGG-GATTTGA--TGATTTAAACCCAGCTAAA-GC--------------- 30245
+                           i  -  i    -- v       v -i    ii-  ---------------
+C L3#LINE/CR1         2572 TGGAGACTTGAACTCATTTAAAGC-GGCTAGGTGCTCTCTTACTATCTCC 2524
+
+  Pc_MSTS010000      30246 ------A-CTTGGGTTGGAATTTACTTTCTACTACTCTTGA-GTATCGGC 30287
+                           ------ -      i vv    iv  i iv  v ivi   v-v  i -- 
+C L3#LINE/CR1         2523 TCACCTATCTTGGGCTTCAATTCCCTCTTAACGATGTTTGTTCTACC--C 2476
+
+  Pc_MSTS010000      30288 TCCCCAGT----AGCTCTTTCTCCTTATTAGAGAAAACAGAAG------- 30326
+                            ii     ----  v  v        iv       i  i    -------
+C L3#LINE/CR1         2475 TTTCCAGTCTGAAGATCATTCTCCTTGATAGAGAAGACGGAAGCAAAATA 2426
+
+  Pc_MSTS010000      30327 --AGTTAAATAATTATCTGTTTTCTCTCCGTCGTGGGGTATCAATCAGCC 30374
+                           --    i i  i  --   i        i   i vv v  v  v vv   
+C L3#LINE/CR1         2425 GGAGTTGAGTAGTT--CTGCTTTCTCTCTGTCATCTGTTAACATTACGCC 2378
+
+  Pc_MSTS010000      30375 TGTCCCTCTCAAGAAGCAGCCTTG-CTTATTCTTTGATCTTCCCTCTTTT 30423
+                           -i  ivi i    v   i v i  - ?iv      ----    i   vi 
+C L3#LINE/CR1         2377 -ATCTGCCCCAAGCAGCGGGCCTGTCNCTTTCTTT----TTCCTTCTGCT 2333
+
+  Pc_MSTS010000      30424 CCCAATATCACTATAAAACCCCAAATAAAGAGGCAACCACAATTTTTGTT 30473
+                             v  i  vi  v i   ---------------- i  vi?-        
+C L3#LINE/CR1         2332 CCGAACATAGCTTTGAAA----------------AGCCTTN-TTTTTGTT 2300
+
+  Pc_MSTS010000      30474 TGTCCTTAGC-----------CA-GCCTCGGCT-ATCCTGAGCCTTGATG 30510
+                           -         -----------  -     i   -  i   i  i  iiiv
+C L3#LINE/CR1         2299 -GTCCTTAGCATTTTTTTTTGCAAGCCTCAGCTCATTCTGGGCTTTAGCC 2251
+
+  Pc_MSTS010000      30511 CTCCCGATATAATTCTTATGGGACTAT-CTGTGCTTTCAAATTCATCTCC 30559
+                           i   i  i iv       ii  vi i -? iiv  i  ---  ii  iii
+C L3#LINE/CR1         2250 TTCCTGACACTATTCTTACAGGCTTGTGNTACTCTCTC---TTTGTCCTT 2204
+
+  Pc_MSTS010000      30560 TGTTCCCTGCCCTTGCTTCTGTGTTTTT-TGCATA-CCTTTTAAAAACTC 30607
+                           v   viv  i   i-i   ii v  i v- i   i-          --  
+C L3#LINE/CR1         2203 GGTTATATGTCCTC-TTTCCATCTTCTGATACATGTCCTTTTAAAA--TC 2157
+
+  Pc_MSTS010000      30608 TTAAGTTCATTAGTGAGTTCCTTTTGCATCCACATTTATCTCTTTAG-GC 30656
+                            v ----   i  v  i ? ii v  ? v    i  vi i    v i-  
+C L3#LINE/CR1         2156 TGA----CATCAGAGAATNCTCTATGNAGCCACGTTGGTTTCTTAAATGC 2111
+
+  Pc_MSTS010000      30657 AACTCCCCA---TATTTCTCATTAAAATTATTTTTCTTTTTGCCCTCAGA 30703
+                           -v     iv--- v  i      -ii  i    v v--v   ivv     
+C L3#LINE/CR1         2110 -CCTCCCTCTTTTCTTCCTCATT-GGATCATTTGTA--ATTGTAGTCAGA 2065
+
+  Pc_MSTS010000      30704 ATTTCATTCATATTTAGCAGCT----ATTCCTCAAAAGGCAACTCACTTT 30749
+                                   ----    iv    ---- ?i    vvi  v  v  iv    
+C L3#LINE/CR1         2064 ATTTCATT----TTTAAGAGCTTCCCANCCCTCTTGAGCCATCTTTCTTT 2019
+
+  Pc_MSTS010000      30750 GCCTTTTGTCTCTGACAATATGGA 30773
+                           ---  vv     ? i --i     
+C L3#LINE/CR1         2018 ---TTGAGTCTCNGGC--CATGGA 2000
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 38.78
+CpG sites = 150, Kimura (unadjusted) = 41.04
+Transitions / transversions = 1.61 (150/93)
+Gap_init rate = 0.11 (93 / 862), avg. gap size = 1.87 (174 / 93)
+
+238 20.97 0.00 0.00 Pc_MSTS01000033.1.fa 30914 30975 (19026) C RLTR20C1_MM#LTR/ERVK (83) 487 426 m_b1s502i4
+
+  Pc_MSTS010000      30914 GAATGAGAGGCAAGGAGACACACACACACACACTCACACTCACGCTCTCA 30963
+                                 i  i  viv v                v     v   i v v  
+C RLTR20C1_MM#L        487 GAATGAAAGACACACACACACACACACACACACACACACACACACACACA 438
+
+  Pc_MSTS010000      30964 CACTCACACATT 30975
+                              v     i  
+C RLTR20C1_MM#L        437 CACACACACGTT 426
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 22.60
+CpG sites = 5, Kimura (unadjusted) = 24.61
+Transitions / transversions = 0.62 (5/8)
+Gap_init rate = 0.00 (0 / 61), avg. gap size = 0.0 (0 / 0)
+
+333 22.81 5.38 1.03 Pc_MSTS01000033.1.fa 31218 31310 (18691) C MIRc#SINE/MIR (0) 268 172 m_b1s601i46
+
+  Pc_MSTS010000      31218 AATGATAATAATAGCTCACATTTATATAGCACTTAAGGGTTT--AAAGCC 31265
+                              i       i?v  i      i          v vi    --     v
+C MIRc#SINE/MIR        268 AATAATAATAACNCCTTACATTTGTATAGCACTTTACAGTTTACAAAGCG 219
+
+  Pc_MSTS010000      31266 CTTT---ATATGTGTATCTTATTTAATATACACAATGATCCTTTGAAG 31310
+                               ---   ii -     i    i  viv     ii i   v   i 
+C MIRc#SINE/MIR        218 CTTTCACATACAT-TATCTCATTTGATCCTCACAACAACCCTGTGAGG 172
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 28.45
+CpG sites = 14, Kimura (unadjusted) = 28.45
+Transitions / transversions = 2.00 (14/7)
+Gap_init rate = 0.03 (3 / 92), avg. gap size = 2.00 (6 / 3)
+
+639 19.23 3.14 1.86 Pc_MSTS01000033.1.fa 31604 31762 (18239) Charlie4#DNA/hAT-Charlie 3218 3378 (0) m_b1s502i5
+
+  Pc_MSTS010000      31604 TTTTTAAAAATT--GATAATTGTATTTAAATATAATTAGTTTCCTTTCTA 31651
+                                   v   --     i i     v         i         v  
+  Charlie4#DNA/       3218 TTTTTAAATATTTTGATAACTATATTTCAATATAATTGGTTTCCTTTGTA 3267
+
+  Pc_MSTS010000      31652 ATGCCAATTACTTGGTTT-ATGCATTTAAAAA-GTTATTTTGAGAAGGGA 31699
+                             v i vv  i  vi   -             -i     i         i
+  Charlie4#DNA/       3268 ATCCTATGTATTTTATTTTATGCATTTAAAAACATTATTCTGAGAAGGGG 3317
+
+  Pc_MSTS010000      31700 TCCCT-GGCTTCAACAGACTGCTGCCCAGTGGGTCCAGGATACAAAAAAG 31748
+                              v -       v        --- v iv       v ii         
+  Charlie4#DNA/       3318 TCCATAGGCTTCACCAGACTGC---CAAAGGGGTCCATGGCACAAAAAAG 3364
+
+  Pc_MSTS010000      31749 GAGAAAGACTCTTG 31762
+                            vv  ii  i i  
+  Charlie4#DNA/       3365 GTTAAGAACCCCTG 3378
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 22.41
+CpG sites = 16, Kimura (unadjusted) = 22.41
+Transitions / transversions = 1.14 (16/14)
+Gap_init rate = 0.04 (7 / 158), avg. gap size = 1.14 (8 / 7)
+
+274 10.00 0.00 0.00 Pc_MSTS01000033.1.fa 31843 31882 (18119) C EutTc1-N2#DNA/TcMar-Tc1 (337) 41 2 m_b1s502i6
+
+  Pc_MSTS010000      31843 ATTAAAGCTTTAAAATGCTCTAAGACTTTTGGGACATCCT 31882
+                                     v   v   v                 i   
+C EutTc1-N2#DNA         41 ATTAAAGCTTAAAACTGCACTAAGACTTTTGGGACACCCT 2
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 10.74
+CpG sites = 1, Kimura (unadjusted) = 10.74
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.00 (0 / 39), avg. gap size = 0.0 (0 / 0)
+
+716 14.74 7.64 0.60 Pc_MSTS01000033.1.fa 32412 32568 (17433) C Charlie4a#DNA/hAT-Charlie (0) 508 341 m_b1s502i7
+
+  Pc_MSTS010000      32412 CAGGGGTTCTTAACCTTGTTT------TGGACCCCTTGAGCAGTCTGGTA 32455
+                                            v   ------          vi          i
+C Charlie4a#DNA        508 CAGGGGTTCTTAACCTTTTTTGTGCCATGGACCCCTTTGGCAGTCTGGTG 459
+
+  Pc_MSTS010000      32456 AAAACCTATGGACTCCTT---AGAATCAGGTTTTTAAGTAAATAAAATAA 32502
+                             i-         i    ---     v v        i iv         
+C Charlie4a#DNA        458 AAG-CCTATGGACCCCTTCTCAGAATAATGTTTTTAAATGCATAAAATAA 410
+
+  Pc_MSTS010000      32503 AATATACAAAATTATAAATAAAACCAAATAAATTGAAATACAGTTACC-- 32550
+                               i i ii    i   vi       v  v               i --
+C Charlie4a#DNA        409 AATACATAGGATTACAAAGGAAACCAATTATATTGAAATACAGTTATCAA 360
+
+  Pc_MSTS010000      32551 AAT-TTAAAAAAAAAAGTT 32568
+                              -        ?v  i  
+C Charlie4a#DNA        359 AATATTAAAAAANCAAATT 341
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 16.72
+CpG sites = 14, Kimura (unadjusted) = 16.72
+Transitions / transversions = 1.56 (14/9)
+Gap_init rate = 0.03 (5 / 156), avg. gap size = 2.60 (13 / 5)
+
+225 20.48 0.00 6.12 Pc_MSTS01000033.1.fa 32986 33037 (16964) C MamSINE1#SINE/tRNA-RTE (38) 252 204 m_b1s502i8
+
+  Pc_MSTS010000      32986 CACTATTGGTAGGCTATGTACTTTAAACTGTGTTATTTCCAGTAGTAGTG 33035
+                                 ii     vi    i    i ii   v  ---         i ? 
+C MamSINE1#SINE        252 CACTATCAGTAGGACATGTGCTTTGAGTTGTTTT---TCCAGTAGTGGNG 206
+
+  Pc_MSTS010000      33036 AT 33037
+                             
+C MamSINE1#SINE        205 AT 204
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 25.68
+CpG sites = 8, Kimura (unadjusted) = 25.68
+Transitions / transversions = 4.00 (8/2)
+Gap_init rate = 0.06 (3 / 51), avg. gap size = 1.00 (3 / 3)
+
+521 27.71 9.09 1.59 Pc_MSTS01000033.1.fa 33369 33544 (16457) MIR3#SINE/MIR 14 202 (6) m_b1s601i47
+
+  Pc_MSTS010000      33369 TGAGAGGACAGAAGACTGGACCCTGAGAATCAGGAGCTCTGAGTTCTAAT 33418
+                               vi  v   iv  -    --  i  i       vi   i      i 
+  MIR3#SINE/MIR         14 TGAGCAGAGAGAGCAC-GGAC--TGGGAGTCAGGAGACCTGGGTTCTAGT 60
+
+  Pc_MSTS010000      33419 CCTTTTTCATCCACTAACTAGC-----AAC--TAAATAAGTCA--TAAA- 33458
+                             ivvi  vv         ?  -----i  -- iiii      -- v v-
+  MIR3#SINE/MIR         61 CCCGGCTCTGCCACTAACTNGCTGTGTGACCTTGGGCAAGTCACTTCACC 110
+
+  Pc_MSTS010000      33459 --TCTGAGCTTCAGTTTCATCAGTTATGAACTGAAGTGGTTGGTCTAAAT 33506
+                           --    i  i        v   vi i i  v   i v      v   i  
+  MIR3#SINE/MIR        111 TCTCTGGGCCTCAGTTTCCTCATCTGTAAAATGAGGGGGTTGGACTAGAT 160
+
+  Pc_MSTS010000      33507 GGCCTTTGAA----CTCCCAGCTCAAAAATGCTGTGATTTTA 33544
+                            ii  i i i----  i       vi v  v  i     i  
+  MIR3#SINE/MIR        161 GATCTCTAAGGTCCCTTCCAGCTCTGACATTCTATGATTCTA 202
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 35.13
+CpG sites = 30, Kimura (unadjusted) = 36.08
+Transitions / transversions = 1.67 (30/18)
+Gap_init rate = 0.05 (9 / 175), avg. gap size = 2.11 (19 / 9)
+
+267 24.44 1.16 4.82 Pc_MSTS01000033.1.fa 33590 33675 (16326) C RMER12C#LTR/ERVK (518) 851 769 m_b1s502i9
+
+  Pc_MSTS010000      33590 TACATATATACGTATGTGTATATA-ATAGCATTAGGTAGGTAGATAGATG 33638
+                               i  i   i  ii?ii ? i -   -    --- i i i   i    
+C RMER12C#LTR/E        851 TACACATGTACATACANACANACATATA-CATT---TGGATGGATGGATG 806
+
+  Pc_MSTS010000      33639 GATGGATAGATAGATAGATAGATAGATAGATAGATAG 33675
+                                  i   i   i   i   i   i   i   i 
+C RMER12C#LTR/E        805 GATGGATGGATGGATGGATGGATGGATGGATGGATGG 769
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 34.66
+CpG sites = 20, Kimura (unadjusted) = 34.66
+Transitions / transversions = 1.00 (20/0)
+Gap_init rate = 0.06 (5 / 85), avg. gap size = 1.00 (5 / 5)
+
+403 17.49 4.82 3.57 Pc_MSTS01000033.1.fa 33687 33769 (16232) CR1_Mam#LINE/CR1 1571 1654 (550) m_b1s551i7
+
+  Pc_MSTS010000      33687 GATAGACAGGTATAGGAAGTTCTCATAAGGCTGTATG----GGCAAAAAA 33732
+                               i  --- ii      v     ii       i  ----    i    
+  CR1_Mam#LINE/       1571 GATAAAC---TGCAGGAAGATCTCACGAGGCTGTGTGAGTGGGCAGAAAA 1617
+
+  Pc_MSTS010000      33733 GTGGCATGTCAGCTTCAATGTGAGCAAATGTAAGGTA 33769
+                                 vi v       i    i    i         
+  CR1_Mam#LINE/       1618 GTGGCAGATGAGCTTCAGTGTGGGCAAGTGTAAGGTA 1654
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 18.90
+CpG sites = 11, Kimura (unadjusted) = 20.68
+Transitions / transversions = 3.67 (11/3)
+Gap_init rate = 0.05 (4 / 82), avg. gap size = 1.75 (7 / 4)
+
+373 32.77 5.04 0.00 Pc_MSTS01000033.1.fa 33785 33903 (16098) MIR#SINE/MIR 20 144 (118) m_b1s601i48
+
+  Pc_MSTS010000      33785 AAAAGCCTTAGCTTTAAA--TAAGCT-CCAGAATTTGGACCTCAGCTCTA 33831
+                             i   vivi   i ii --i ii  -  v ii  i i i i i     i
+  MIR#SINE/MIR          20 AAGAGCACGGGCTCTGGAGCCAGACTGCCTGGGTTCGAATCCCGGCTCTG 69
+
+  Pc_MSTS010000      33832 CCATTTGGTACCCATATAATCCTAAGCAA-TCATTTAACTTCTCTG-AAC 33879
+                              i  iv  v ii i i i i ii    - i i     i      -iv 
+  MIR#SINE/MIR          70 CCACTTACTAGCTGTGTGACCTTGGGCAAGTTACTTAACCTCTCTGTGCC 119
+
+  Pc_MSTS010000      33880 TCA-TTTCCTCATCTGTAAAGTGAG 33903
+                              -                i  i 
+  MIR#SINE/MIR         120 TCAGTTTCCTCATCTGTAAAATGGG 144
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 43.67
+CpG sites = 33, Kimura (unadjusted) = 49.11
+Transitions / transversions = 5.50 (33/6)
+Gap_init rate = 0.04 (5 / 118), avg. gap size = 1.20 (6 / 5)
+
+389 28.42 3.16 0.00 Pc_MSTS01000033.1.fa 33809 33903 (16098) MIRc#SINE/MIR 51 148 (120) m_b1s601i49
+
+  Pc_MSTS010000      33809 CCAGAATTTGGACCTCAGCTCTACCATTTGGTACCCATATAATCCTAAGC 33858
+                             v ii  i iii i i     i   i  iv  v ii i i i i ii  
+  MIRc#SINE/MIR         51 CCTGGGTTCGAGTCCCGGCTCTGCCACTTACTAGCTGTGTGACCTTGGGC 100
+
+  Pc_MSTS010000      33859 AA-TCATTTAACTTCTCTGAAC-TCA-TTTCCTCATCTGTAAAGTGAG 33903
+                             -   i     i       i -   -                i  i 
+  MIRc#SINE/MIR        101 AAGTCACTTAACCTCTCTGAGCCTCAGTTTCCTCATCTGTAAAATGGG 148
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 36.18
+CpG sites = 24, Kimura (unadjusted) = 40.12
+Transitions / transversions = 8.00 (24/3)
+Gap_init rate = 0.03 (3 / 94), avg. gap size = 1.00 (3 / 3)
+
+469 25.00 3.57 0.00 Pc_MSTS01000033.1.fa 33822 33933 (16068) MIR3#SINE/MIR 61 176 (32) m_b1s601i50
+
+  Pc_MSTS010000      33822 CTCAGCTCTACCATTTGGTACCCATATAATCCTAAGCAA-TCATTTAACT 33870
+                            i i     i   i viv ?v ii i i i i ii    -   i  v  i
+  MIR3#SINE/MIR         61 CCCGGCTCTGCCACTAACTNGCTGTGTGACCTTGGGCAAGTCACTTCACC 110
+
+  Pc_MSTS010000      33871 TCTCTGAAC-TCA-TTTCCTCATCTGTAAAGTGAGAGTGTTGAACTAGAT 33918
+                                 ii -   -                i    i v    i       
+  MIR3#SINE/MIR        111 TCTCTGGGCCTCAGTTTCCTCATCTGTAAAATGAGGGGGTTGGACTAGAT 160
+
+  Pc_MSTS010000      33919 GA-GTCTGAGGTGCCT 33933
+                             -v   i    v   
+  MIR3#SINE/MIR        161 GATCTCTAAGGTCCCT 176
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 31.06
+CpG sites = 21, Kimura (unadjusted) = 32.49
+Transitions / transversions = 3.00 (21/7)
+Gap_init rate = 0.04 (4 / 111), avg. gap size = 1.00 (4 / 4)
+
+267 18.18 5.45 0.00 Pc_MSTS01000033.1.fa 34466 34520 (15481) C Plat_L3#LINE/CR1 (2) 3571 3514 m_b1s551i8
+
+  Pc_MSTS010000      34466 TAGGATCGTAGA--TTTAGAAATGGAAGGG-CTTTTAGAGCTCATCTAGT 34512
+                              i   i    --i?    iv        - i iv    v      i  
+C Plat_L3#LINE/       3571 TAGAATCATAGAATCNTAGAGCTGGAAGGGACCTCGAGAGGTCATCTGGT 3522
+
+  Pc_MSTS010000      34513 CCAGCCCC 34520
+                                   
+C Plat_L3#LINE/       3521 CCAGCCCC 3514
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 19.47
+CpG sites = 7, Kimura (unadjusted) = 21.85
+Transitions / transversions = 2.33 (7/3)
+Gap_init rate = 0.04 (2 / 54), avg. gap size = 1.50 (3 / 2)
+
+319 25.00 0.00 0.00 Pc_MSTS01000033.1.fa 34576 34639 (15362) C MIRb#SINE/MIR (154) 114 51 m_b1s601i51
+
+  Pc_MSTS010000      34576 TTAAATAACTTGCCCAAAGCCACATAGGTGGGAAGTAGCAGAGTCAGAGT 34625
+                               i            i i    i  v i v    i      i i ii 
+C MIRb#SINE/MIR        114 TTAAGTAACTTGCCCAAGGTCACACAGCTAGTAAGTGGCAGAGCCGGGAT 65
+
+  Pc_MSTS010000      34626 CTGAAGCAAGGTCT 34639
+                           ii   v v      
+C MIRb#SINE/MIR         64 TCGAACCCAGGTCT 51
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 27.34
+CpG sites = 12, Kimura (unadjusted) = 32.11
+Transitions / transversions = 3.00 (12/4)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+244 37.67 2.88 0.70 Pc_MSTS01000033.1.fa 34672 34810 (15191) L2#LINE/L2 2680 2821 (261) m_b1s601i52
+
+  Pc_MSTS010000      34672 CCATCCCCAGTTCAAATCCTGATTACTTCTTCCCTGAACTATTACAATAT 34721
+                              -   ii  i   ii viv  i ii   iv    i i  i i     v
+  L2#LINE/L2          2680 CCA-CCCTGGTCCAAGCCACCATCATCTCTCGCCTGGATTACTGCAATAG 2728
+
+  Pc_MSTS010000      34722 TTTCTTA----GTCTGCCTGCCGCCCATCTTCTTTCTCTCCTATCCAACT 34767
+                           ii  i  ----    v     iv  vvi   viii i  ? vi  i vii
+  L2#LINE/L2          2729 CCTCCTAACTGGTCTCCCTGCTTCCACCCTTGCCCCCCTNCAGTCTATTC 2778
+
+  Pc_MSTS010000      34768 GCCACCCAGCTGCCAGATTGACATTCCTAAAACACAGGTCTGA 34810
+                           v v  v    v      v   ivi ii      ii i   v  
+  L2#LINE/L2          2779 TCAACACAGCAGCCAGAGTGATCCTTTTAAAACGTAAGTCAGA 2821
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 53.62
+CpG sites = 34, Kimura (unadjusted) = 57.03
+Transitions / transversions = 1.89 (34/18)
+Gap_init rate = 0.01 (2 / 138), avg. gap size = 2.50 (5 / 2)
+
+578 23.99 20.85 1.19 Pc_MSTS01000033.1.fa 35297 35507 (14494) C MIRc#SINE/MIR (0) 268 17 m_b1s601i53
+
+  Pc_MSTS010000      35297 AATAATAATAATCCCTTACATTTGTATAATTCATTA-AGATTTTTCCAAG 35345
+                                      i?               iiv v   -  --   v v   
+C MIRc#SINE/MIR        268 AATAATAATAACNCCTTACATTTGTATAGCACTTTACAG--TTTACAAAG 221
+
+  Pc_MSTS010000      35346 TGTTTT-----------------TTG-----CATAACAACCTTGGGAAGT 35373
+                           i i   -----------------   -----  i       i  v  i  
+C MIRc#SINE/MIR        220 CGCTTTCACATACATTATCTCATTTGATCCTCACAACAACCCTGTGAGGT 171
+
+  Pc_MSTS010000      35374 AGATGGTACAAGTATTATTATTCCCCTTCTGCAAATAATAA---TGAGGT 35420
+                             iii vi  i          i   v  i i  i  i vi ---     i
+C MIRc#SINE/MIR        170 AGGCAGGGCAGGTATTATTATCCCCATTTTACAGATGAGGAAACTGAGGC 121
+
+  Pc_MSTS010000      35421 ACAGAGA-ATTAAG------------GG---CATAATTACGGAGTATCAG 35454
+                           v      -i     ------------  ---  i ii  vvi   iv   
+C MIRc#SINE/MIR        120 TCAGAGAGGTTAAGTGACTTGCCCAAGGTCACACAGCTAGTAAGTGGCAG 71
+
+  Pc_MSTS010000      35455 AGCCAAGA-TCGTAGCCCAGG-CTGTGTGACTCCAAATTCAATATTCTTT 35502
+                               ii  -   - i      -  viv         i i  i ii     
+C MIRc#SINE/MIR         70 AGCCGGGACTCG-AACCCAGGTCTTCCTGACTCCAAGTCCAGTGCTCTTT 22
+
+  Pc_MSTS010000      35503 TCACT 35507
+                           i    
+C MIRc#SINE/MIR         21 CCACT 17
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 29.01
+CpG sites = 36, Kimura (unadjusted) = 30.48
+Transitions / transversions = 2.57 (36/14)
+Gap_init rate = 0.06 (12 / 210), avg. gap size = 3.92 (47 / 12)
+
+299 18.33 5.00 0.00 Pc_MSTS01000033.1.fa 35687 35746 (14255) C Charlie4a#DNA/hAT-Charlie (0) 508 446 m_b1s502i10
+
+  Pc_MSTS010000      35687 CAGAGGTTCTTATCCTTTTT---GTCATGGATGCCTTTGGCAGTCTACTG 35733
+                              i        v       --- i      iv             iv  
+C Charlie4a#DNA        508 CAGGGGTTCTTAACCTTTTTTGTGCCATGGACCCCTTTGGCAGTCTGGTG 459
+
+  Pc_MSTS010000      35734 AAGACACTGAACC 35746
+                              v vv  i   
+C Charlie4a#DNA        458 AAGCCTATGGACC 446
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 21.09
+CpG sites = 5, Kimura (unadjusted) = 21.09
+Transitions / transversions = 0.83 (5/6)
+Gap_init rate = 0.02 (1 / 59), avg. gap size = 3.00 (3 / 1)
+
+372 15.49 2.82 0.00 Pc_MSTS01000033.1.fa 35769 35839 (14162) C Charlie4a#DNA/hAT-Charlie (378) 130 58 m_b1s502i11
+
+  Pc_MSTS010000      35769 TAAATTCATAAT--AAAGAAATGTTAAATTTTAGTTAAAAGTTAGTAAAA 35816
+                             v         --  i      i       i     i i      i   
+C Charlie4a#DNA        130 TACATTCATAATTGAAGGAAATGCTAAATTTCAGTTAGAGGTTAGTGAAA 81
+
+  Pc_MSTS010000      35817 ATAAAGATGTGATTTCCTGCCCC 35839
+                                     i    ii v    
+C Charlie4a#DNA         80 ATAAAGATGTAATTTTTTTCCCC 58
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 17.99
+CpG sites = 9, Kimura (unadjusted) = 17.99
+Transitions / transversions = 4.50 (9/2)
+Gap_init rate = 0.01 (1 / 70), avg. gap size = 2.00 (2 / 1)
+
+1067 24.32 1.89 2.27 Pc_MSTS01000033.1.fa 36074 36338 (13663) MIRc#SINE/MIR 4 267 (1) m_b1s601i54
+
+  Pc_MSTS010000      36074 GGCAGCTTGGCATAGTTGAAAGAAGATTGGGTTTGGAGTCAGGAAAAGAC 36123
+                                iv   iii   v      iv i   ii             --   
+  MIRc#SINE/MIR          4 GGCAGTGTGGTGCAGTGGAAAGAGCACTGGACTTGGAGTCAGGAA--GAC 51
+
+  Pc_MSTS010000      36124 CAGGGTTCAAATCCTGCTTCTTATACTAACTAGCCATATAACCATGGGCA 36173
+                            v      i i   i vi   vvi   v      ii i i   v      
+  MIRc#SINE/MIR         52 CTGGGTTCGAGTCCCGGCTCTGCCACTTACTAGCTGTGTGACCTTGGGCA 101
+
+  Pc_MSTS010000      36174 AATCACTTAATCAATCAGTGCCTCAATTCCCCTATCTCC-AAATGGGTAT 36222
+                            i        i vv  v v      i  i  ii    vi-       v  
+  MIRc#SINE/MIR        102 AGTCACTTAACCTCTCTGAGCCTCAGTTTCCTCATCTGTAAAATGGGGAT 151
+
+  Pc_MSTS010000      36223 AATAATATCTATAGTGCCTACCTCCAAGAGTGGTTCTTGTGAGGGTCAAA 36272
+                                  i  iivv          vv  ---    v        i     
+  MIRc#SINE/MIR        152 AATAATACCTGCCCTGCCTACCTCACAG---GGTTGTTGTGAGGATCAAA 198
+
+  Pc_MSTS010000      36273 TAAGATAATGTATAT-AAAACACTGTGAAAACTTTAAAAGTTTGTATAAA 36321
+                            i           i -   i i  v  v     v    ivvi i  i   
+  MIRc#SINE/MIR        199 TGAGATAATGTATGTGAAAGCGCTTTGTAAACTGTAAAGTGCTATACAAA 248
+
+  Pc_MSTS010000      36322 T---AGCTGTCATTAATTAT 36338
+                            ---  v?  i   -     
+  MIRc#SINE/MIR        249 TGTAAGGNGTTATT-ATTAT 267
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 28.47
+CpG sites = 37, Kimura (unadjusted) = 30.15
+Transitions / transversions = 1.42 (37/26)
+Gap_init rate = 0.03 (9 / 264), avg. gap size = 1.22 (11 / 9)
+
+313 33.67 9.85 6.62 Pc_MSTS01000033.1.fa 36794 37057 (12944) C Tigger19a#DNA/TcMar-Tigger (3) 320 49 m_b1s601i55
+
+  Pc_MSTS010000      36794 TCAGTTTTCAATTATTCAAGCTAATTGAGGA-AGCAA------AGATGAT 36836
+                              ii i  i     i iv      v    i-    i------i   i  
+C Tigger19a#DNA        320 TCAACTCTCGATTATCCGCGCTAATGGAGGGGAGCAGTGGCGCGGATAAT 271
+
+  Pc_MSTS010000      36837 TTAAAATA------AACAC-----------GTATTTGATTTTGGAATGCC 36869
+                           ii    i ------  iv -----------?      ii          v
+C Tigger19a#DNA        270 CCAAAACAGCGGATAATCCAAAAATCATTTNTATTTGGCTTTGGAATGCA 221
+
+  Pc_MSTS010000      36870 TTTTAAAAATTTTTT-TAGCTTAAAATTGTCTTCCATTTAACTTAGGCTA 36918
+                             v ivi v     i-i   -- i v  ii     -------------  
+C Tigger19a#DNA        220 TTATGTGATTTTTTCGCAGC--AGATTTACCTTCC-------------TA 186
+
+  Pc_MSTS010000      36919 ATTCTGTTTAACTTTGTAGAA-ATTGAAATTAGATTATGTTTCCAGAGCA 36967
+                              v     vi   v vvv  -   i       v  iii  i  v     
+C Tigger19a#DNA        185 ATTATGTTTTGCTTAGGCTAATATTAAAATTAGTTTGCATTCCCTGAGCA 136
+
+  Pc_MSTS010000      36968 TAAACTAAATGAGGAGAAGGAGATAGCAACCTTAGTGCTATTCAAGATAG 37017
+                           i v  i  v   v - vi    iv   ii  iviiv  -  v vi i i 
+C Tigger19a#DNA        135 CACACCAACTGATG-GCGGGAGGAAGCGGCCCGGAAGC-ATGCTGGGTGG 88
+
+  Pc_MSTS010000      37018 TAGTGGGGAAGTCAAACTCAAAATATAAATTTTCTGCAAA 37057
+                           i- v       i iiv  vii v vv     iv i  ii 
+C Tigger19a#DNA         87 C-GAGGGGAAGCCGGCCTGGGATTTAAAATTCGCCGCGGA 49
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 38.27
+CpG sites = 51, Kimura (unadjusted) = 47.16
+Transitions / transversions = 1.59 (51/32)
+Gap_init rate = 0.09 (24 / 263), avg. gap size = 1.83 (44 / 24)
+
+295 15.46 12.33 2.50 Pc_MSTS01000033.1.fa 37212 37284 (12717) C EutTc1-N2#DNA/TcMar-Tc1 (296) 82 3 m_b1s502i12
+
+  Pc_MSTS010000      37212 GGTGTTTTTTTTTAATTTTTAGTCCATTTGGACT---------ATCAAAG 37252
+                            i        v v i   v   --     iv   ---------  i    
+C EutTc1-N2#DNA         82 GATGTTTTTTGTAAGTTTGTAG--CATTTATACTTCTGAAGTTATTAAAG 35
+
+  Pc_MSTS010000      37253 CTTAAAAGCGCACAAAGACTTTTGGGACACCC 37284
+                                  vi    v                  
+C EutTc1-N2#DNA         34 CTTAAAACTGCACTAAGACTTTTGGGACACCC 3
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 17.40
+CpG sites = 5, Kimura (unadjusted) = 17.40
+Transitions / transversions = 0.83 (5/6)
+Gap_init rate = 0.04 (3 / 72), avg. gap size = 3.67 (11 / 3)
+
+345 17.70 2.20 6.90 Pc_MSTS01000033.1.fa 38252 38342 (11659) C Charlie4a#DNA/hAT-Charlie (15) 493 407 m_b1s502i13
+
+  Pc_MSTS010000      38252 TTTTTTG-GTCATGGATCTCATTTGGCAATCTGGTAAAGCCTATGAATCC 38300
+                                  - i      i i -       i      i         i i  
+C Charlie4a#DNA        493 TTTTTTGTGCCATGGACCCC-TTTGGCAGTCTGGTGAAGCCTATGGACCC 445
+
+  Pc_MSTS010000      38301 TACCTCACAGTGAT-TTTTTAAAAAATCATAACTGAATAAAAT 38342
+                           ivi    v i i  -        vi--     ---        
+C Charlie4a#DNA        444 CTTCTCAGAATAATGTTTTTAAATG--CATAA---AATAAAAT 407
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 20.94
+CpG sites = 12, Kimura (unadjusted) = 20.94
+Transitions / transversions = 4.00 (12/3)
+Gap_init rate = 0.09 (8 / 90), avg. gap size = 1.00 (8 / 8)
+
+634 20.32 0.81 0.81 Pc_MSTS01000033.1.fa 38326 38449 (11552) C Charlie4a#DNA/hAT-Charlie (383) 125 2 m_b1s502i14
+
+  Pc_MSTS010000      38326 TCATAACTGAATAAAATGTTAAATTTCCATTAGAGATTAGTAAAAATAAA 38375
+                                 i    vi     i        vi      i     i        
+C Charlie4a#DNA        125 TCATAATTGAAGGAAATGCTAAATTTCAGTTAGAGGTTAGTGAAAATAAA 76
+
+  Pc_MSTS010000      38376 ATTGTGA-TTTTTCCCCCATCCAAGTTCATAGCCCCCCTGAAATCTAATC 38424
+                           iv   i -     i               ii v         v   -   
+C Charlie4a#DNA         75 GATGTAATTTTTTTCCCCATCCAAGTTCACGGACCCCCTGAATTCT-ATC 27
+
+  Pc_MSTS010000      38425 TGTGAATCCCAAGTTAAGGACTTCT 38449
+                           iii i i    i      i  ii  
+C Charlie4a#DNA         26 CACGGACCCCAGGTTAAGAACCCCT 2
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 22.52
+CpG sites = 20, Kimura (unadjusted) = 24.89
+Transitions / transversions = 4.00 (20/5)
+Gap_init rate = 0.02 (2 / 123), avg. gap size = 1.00 (2 / 2)
+
+551 20.20 0.00 3.51 Pc_MSTS01000033.1.fa 39032 39149 (10852) C UCON33#DNA/TcMar-Tigger (0) 320 207 m_b1s502i15
+
+  Pc_MSTS010000      39032 CAGCAAAATCCTGTTTTTACAGAGTGAGTTGGGACTAAGGTCATTCTGTA 39081
+                              i       ii       i  i  i  i     i          i   
+C UCON33#DNA/Tc        320 CAGTAAAATCCCATTTTTACGGAATGGGTCGGGACCAAGGTCATTCCGTA 271
+
+  Pc_MSTS010000      39082 TAAACATATATTTCTGGGAAAATGGAAGTTGAGAATATATCCTGAGAATT 39131
+                           v   iiv  -    i  i    i    i   iv   v  i   i      
+C UCON33#DNA/Tc        270 AAAATGGAT-TTTCCGGAAAAACGGAAATTGGCAATTTACCCTAAGAATT 222
+
+  Pc_MSTS010000      39132 TTATTGGGGAAAAAGTAT 39149
+                                ---      i   
+C UCON33#DNA/Tc        221 TTATT---GAAAAAATAT 207
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 18.91
+CpG sites = 19, Kimura (unadjusted) = 24.80
+Transitions / transversions = 4.75 (19/4)
+Gap_init rate = 0.03 (4 / 117), avg. gap size = 1.00 (4 / 4)
+
+477 23.42 13.18 0.69 Pc_MSTS01000033.1.fa 39157 39285 (10716) MIRc#SINE/MIR 2 146 (122) m_b1s601i56
+
+  Pc_MSTS010000      39157 GAGGCTCTGTGATGCAGTGGAAAGAGTACTAAGGTTTGGAGTCAGGAA-A 39205
+                                vv    i              i   -i ii             - 
+  MIRc#SINE/MIR          2 GAGGCAGTGTGGTGCAGTGGAAAGAGCACT-GGACTTGGAGTCAGGAAGA 50
+
+  Pc_MSTS010000      39206 CTTGGGTTCCAGTTTTAGTTTTGCCATGAGCTAGCTT------------- 39242
+                            i       v   iiii i i     ivvi      v-------------
+  MIRc#SINE/MIR         51 CCTGGGTTCGAGTCCCGGCTCTGCCACTTACTAGCTGTGTGACCTTGGGC 100
+
+  Pc_MSTS010000      39243 -AATGACTTGACTTCTCTGGGCCCTATTTTCTTAATC--TAAAATG 39285
+                           - i v    i  i      i   ii v    i v   --       
+  MIRc#SINE/MIR        101 AAGTCACTTAACCTCTCTGAGCCTCAGTTTCCTCATCTGTAAAATG 146
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 27.92
+CpG sites = 21, Kimura (unadjusted) = 29.20
+Transitions / transversions = 2.33 (21/9)
+Gap_init rate = 0.04 (5 / 128), avg. gap size = 3.60 (18 / 5)
+
+445 27.57 11.05 5.79 Pc_MSTS01000033.1.fa 39172 39352 (10649) MIR3#SINE/MIR 16 205 (3) m_b1s601i57
+
+  Pc_MSTS010000      39172 AGTGGAAAGAGTACTAAGGTTTGGAGTCAGGAAACTTGGGTTCCAGTTTT 39221
+                             ii  i    i  --i ii v          i  i       i   iii
+  MIR3#SINE/MIR         16 AGCAGAGAGAGCAC--GGACTGGGAGTCAGGAGACCTGGGTTCTAGTCCC 63
+
+  Pc_MSTS010000      39222 AGTTTTGCCATGAGCTAGCTT--------------AATGACTTGACTTCT 39257
+                           i i i     iv i  ?   v-------------- i v    v  i   
+  MIR3#SINE/MIR         64 GGCTCTGCCACTAACTNGCTGTGTGACCTTGGGCAAGTCACTTCACCTCT 113
+
+  Pc_MSTS010000      39258 CTGGGCCCTATTTTCTTAATC--TAAAATGACCATGTAGGAGCAAATGAT 39305
+                                  ii v    i v   --        vviv  v   vi i     
+  MIR3#SINE/MIR        114 CTGGGCCTCAGTTTCCTCATCTGTAAAATGAGGGGGTTGGACTAGATGAT 163
+
+  Pc_MSTS010000      39306 TGTGTTGGATTGTAAGG-CCCT---ATGTCTAAAAATCTATGGTTCTGTG 39351
+                           ---------i v     -    --- vv   i v v      i    i  
+  MIR3#SINE/MIR        164 ---------CTCTAAGGTCCCTTCCAGCTCTGACATTCTATGATTCTATG 204
+
+  Pc_MSTS010000      39352 A 39352
+                            
+  MIR3#SINE/MIR        205 A 205
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 34.00
+CpG sites = 30, Kimura (unadjusted) = 36.02
+Transitions / transversions = 1.76 (30/17)
+Gap_init rate = 0.08 (15 / 180), avg. gap size = 2.07 (31 / 15)
+
+321 33.33 0.85 0.85 Pc_MSTS01000033.1.fa 41199 41316 (8685) C MIRc#SINE/MIR (58) 210 93 m_b1s601i58
+
+  Pc_MSTS010000      41199 TACATTATTAC-CTTGATCCTCTTAAATATCCCTGTGAGTCCAACCGGAC 41247
+                                   iv -i         vi  -i v         vivii v  i 
+C MIRc#SINE/MIR        210 TACATTATCTCATTTGATCCTCACAA-CAACCCTGTGAGGTAGGCAGGGC 162
+
+  Pc_MSTS010000      41248 CTGAAGCACTATCTCTGTATTATAGATAAGTCACCTAAGCCTTTCAGAGG 41297
+                           vv v vi i    i ii v   i    i  vv v  i  v  ivv     
+C MIRc#SINE/MIR        161 AGGTATTATTATCCCCATTTTACAGATGAGGAAACTGAGGCTCAGAGAGG 112
+
+  Pc_MSTS010000      41298 TTAAGTAATTTGTCTTAGG 41316
+                                 i i   i iv   
+C MIRc#SINE/MIR        111 TTAAGTGACTTGCCCAAGG 93
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 45.15
+CpG sites = 21, Kimura (unadjusted) = 45.15
+Transitions / transversions = 1.17 (21/18)
+Gap_init rate = 0.02 (2 / 117), avg. gap size = 1.00 (2 / 2)
+
+206 26.06 2.15 9.20 Pc_MSTS01000033.1.fa 41345 41437 (8564) L2a_3end#LINE/L2 419 505 (12) m_b1s601i59
+
+  Pc_MSTS010000      41345 GGAGTTTTTGT-TGTTGTTGTTCGTTTGTTTATATATCCTCAGGGC-TAG 41392
+                             iii      -    -      ii - i ---i     i   v  -   
+  L2a_3end#LINE        419 GGGACTTTTGTCTGTT-TTGTTCACT-GCT---GTATCCCCAGCGCCTAG 463
+
+  Pc_MSTS010000      41393 CACACTGTCTGGCCTTTAGCTTGAGATACTTAATAAACCTTTGTT 41437
+                           v   v  i     viv   i---  iii  i      iv      
+  L2a_3end#LINE        464 AACAGTGCCTGGCACATAGT---AGGCGCTCAATAAATATTTGTT 505
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 31.35
+CpG sites = 16, Kimura (unadjusted) = 33.43
+Transitions / transversions = 2.67 (16/6)
+Gap_init rate = 0.11 (10 / 92), avg. gap size = 1.00 (10 / 10)
+
+697 31.35 10.19 0.89 Pc_MSTS01000033.1.fa 41477 41888 (8113) C Mam_R4#LINE/Dong-R4 (135) 3674 3225 m_b1s551i9
+
+  Pc_MSTS010000      41477 GCCTTCTTAACTGGTGCTAATGTATAAAAAATCCC-AGTTACCTAAAACT 41525
+                                  v  i  iv  i ii      vi      -    v i   i iv
+C Mam_R4#LINE/D       3674 GCCTTCTGAATTGAGGCCAGCGTATAATGAATCCCCAGTTCCTTAAGATG 3625
+
+  Pc_MSTS010000      41526 TTAAGCTTATGCTTGAGGAGTCATTTTAGTCACTGATAT---AAATGACT 41572
+                             v i  vi  iv  v   ii  iiii    i i  v  ---  v  i  
+C Mam_R4#LINE/D       3624 TTTAACTAGTGTATGCGGAACCACCCCAGTCGCCGAGATGATAATTGGCT 3575
+
+  Pc_MSTS010000      41573 TCATTTTTAATCAGACTT-----TTCATATTTGTTTTAGTTTA---ACCA 41614
+                            i i   --iiii?    ----- i  i        i  i iv---    
+C Mam_R4#LINE/D       3574 TTACTTT--GCTGNACTTCAATCTCCACATTTGTTTCAGCTCCTCTACCA 3527
+
+  Pc_MSTS010000      41615 CTCCTCCATG--TATCTATCCTATCTGTAAACATCCTGTAAATATTTCTA 41662
+                           vv  iv i i--   i    i v    i v ii i  vvi         i
+C Mam_R4#LINE/D       3526 GACCCACGTACTTATTTATCTTCTCTGCATATGTTCTTGGAATATTTCTG 3477
+
+  Pc_MSTS010000      41663 TTTCATGAAGTAATGATATTAATAAGCT----------------TTTAAA 41696
+                           i  viv i ii iii    i        ----------------    vv
+C Mam_R4#LINE/D       3476 CTTAGGGGAACAGCAATATCAATAAGCTCCACTGTTTTATTAAGTTTATC 3427
+
+  Pc_MSTS010000      41697 AATTGGCAAAATTTCTGGTTTCTTCGCTAGAATTTATTCTGTTT-TTGTT 41745
+                             vii   i   v      i v  v  i  i    i  -v  i -  i i
+C Mam_R4#LINE/D       3426 AAGCAGCAGAATGTCTGGTCTGTTGGCCAGGATTTGTT-GGTCTGTTATC 3378
+
+  Pc_MSTS010000      41746 ACAGCTCTCTTCTAGAATATTGTAAGACTGCTATTTGCAA-CACATTTTT 41794
+                             i     v i i  v i v v  vi  v   i   v v -      i  
+C Mam_R4#LINE/D       3377 ACGGCTCTGTCCCAGTACAATTTATAACAGCTGTTTTCCATCACATTCTT 3328
+
+  Pc_MSTS010000      41795 GAGTTGAGACTTAAAATACTAGTGTT-ATCCATT-ACT--------ATTG 41834
+                            i   v v     v    - i     -       -   --------    
+C Mam_R4#LINE/D       3327 GGGTTCATACTTATAATA-TGGTGTTAATCCATTCACTAACTTGCAATTG 3279
+
+  Pc_MSTS010000      41835 AGAGCTAACTATTAATATTCAATTCTAACAATCCTATTGTTTATATCAGT 41884
+                            ii       i  i  i v    ii  i   ivi      viv i ii  
+C Mam_R4#LINE/D       3278 AAGGCTAACTGTTGATGTACAATCTTAGCAACGTTATTGTGCCTGTTGGT 3229
+
+  Pc_MSTS010000      41885 ATAA 41888
+                               
+C Mam_R4#LINE/D       3228 ATAA 3225
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 40.27
+CpG sites = 85, Kimura (unadjusted) = 42.98
+Transitions / transversions = 1.98 (85/43)
+Gap_init rate = 0.04 (15 / 411), avg. gap size = 3.07 (46 / 15)
+
+678 27.73 0.00 2.72 Pc_MSTS01000033.1.fa 42550 42738 (7263) C MIR3#SINE/MIR (21) 187 4 m_b1s601i60
+
+  Pc_MSTS010000      42550 TTAGAAGAGTAAGTAATCCTTGAAGCCATTAAGGCCAATCCTCACATTTT 42599
+                            i   ivv v   vi i i v  iii   iv  v    i  i v      
+C MIR3#SINE/MIR        187 TCAGAGCTGGAAGGGACCTTAGAGATCATCTAGTCCAACCCCCTCATTTT 138
+
+  Pc_MSTS010000      42600 AAAGTTGAGGAAACTGAAGTGAACAGAGAAGTTAAGTGACTTGCCCAAGG 42649
+                            v  v            i iv--      i  v                 
+C MIR3#SINE/MIR        137 ACAGATGAGGAAACTGAGGCC--CAGAGAGGTGAAGTGACTTGCCCAAGG 90
+
+  Pc_MSTS010000      42650 TCACACAGCTAGTTAAGTATCTGAAGTGGAATTTAAACGTAGGTCTTCTT 42699
+                                    ?    -   iv v  ivi  i i vi   vi     -  i 
+C MIR3#SINE/MIR         89 TCACACAGCNAGTT-AGTGGCAGAGCCGGGACTAGAACCCAGGTC-TCCT 42
+
+  Pc_MSTS010000      42700 GACTCCAATTTCAGCGTCCTATATACTATGCCACTATGC 42738
+                                 v v i - i ii  v v i  vv      v   
+C MIR3#SINE/MIR         41 GACTCCCAGTCC-GTGCTCTCTCTGCTCAGCCACTCTGC 4
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 34.53
+CpG sites = 27, Kimura (unadjusted) = 35.38
+Transitions / transversions = 1.12 (27/24)
+Gap_init rate = 0.03 (5 / 188), avg. gap size = 1.00 (5 / 5)
+
+728 22.70 0.00 3.33 Pc_MSTS01000033.1.fa 42587 42741 (7260) C MIRc#SINE/MIR (117) 151 2 m_b1s601i61
+
+  Pc_MSTS010000      42587 ATCCTCACATTTTAAAGTTGAGGAAACTGAAGTGAACAGAGAAGTTAAGT 42636
+                               i  --     v  v            i iv--      i       
+C MIRc#SINE/MIR        151 ATCCCCA--TTTTACAGATGAGGAAACTGAGGCT--CAGAGAGGTTAAGT 106
+
+  Pc_MSTS010000      42637 GACTTGCCCAAGGTCACACAGCTAGTTAAGTATCTGAAGTGGAATTTAAA 42686
+                                                    -     iv v  ivi  i i ii  
+C MIRc#SINE/MIR        105 GACTTGCCCAAGGTCACACAGCTAG-TAAGTGGCAGAGCCGGGACTCGAA 57
+
+  Pc_MSTS010000      42687 CGTAGGTCTTCTTGACTCCAATTTCAGCGTCCTATATACTATGCCACTAT 42736
+                            vi        i         v i   i ii  v vi   iii    vv 
+C MIRc#SINE/MIR         56 CCCAGGTCTTCCTGACTCCAAGTCCAGTGCTCTTTCCACTGCACCACACT 7
+
+  Pc_MSTS010000      42737 GCTTC 42741
+                             i  
+C MIRc#SINE/MIR          6 GCCTC 2
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 25.74
+CpG sites = 22, Kimura (unadjusted) = 27.73
+Transitions / transversions = 1.83 (22/12)
+Gap_init rate = 0.03 (5 / 154), avg. gap size = 1.00 (5 / 5)
+
+499 28.16 16.46 1.10 Pc_MSTS01000033.1.fa 43361 43597 (6404) C L2d_3end#LINE/L2 (25) 491 219 m_b1s601i62
+
+  Pc_MSTS010000      43361 ATTAAGTACCTCCTTTGTGC--AACACATTGCTAAGAGAGATATGAAA-- 43406
+                              i  ii   v  v     -- i   vv     i v vvi iv i  --
+C L2d_3end#LINE        491 ATTGAGCGCCTACTATGTGCTCAGCACTGTGCTAGGCGCTGTGGGGAACG 442
+
+  Pc_MSTS010000      43407 ATAAAAAAGTGTA-------GTC--TGTCCTCAGGGAACTTAAAATCTAA 43447
+                            ?    ?   i  -------   --  i     i   i    v      i
+C L2d_3end#LINE        441 ANAAAANAGTATAAGACATGGTCCCTGCCCTCAAGGAGCTTACAATCTAG 392
+
+  Pc_MSTS010000      43448 TTAGGGA--TGAGAC----ATGTATGCAAATAGGTTTTGAAATCAAGACA 43491
+                             i    --ii    ---- iii   -   i i--  v  i v   v   
+C L2d_3end#LINE        391 TTGGGGAGACAAGACTAACACACATG-AAACAA--TTAGAGAACAATACA 345
+
+  Pc_MSTS010000      43492 AAA------ATAA----------AACCATGCGG-AAAGA---TAAATGTT 43521
+                            i ------    ----------  iiii i  - v   ---   i  i 
+C L2d_3end#LINE        344 AGACAGTATATAATTAAGTGCTAAATTGCGTGGTACAGACTATAAGTGCT 295
+
+  Pc_MSTS010000      43522 ATAAGAATTCATAGAAGGTAGGGGTCAATGGGAGTTAGAGTAACTGATGA 43571
+                              i  i    v      v  i i   i  v i i i    iiiiiiv  
+C L2d_3end#LINE        294 ATAGGAGTTCAGAGAAGGGAGAGATCAGTGTGGGCTGGAGTGGTCAGGGA 245
+
+  Pc_MSTS010000      43572 AGACTTCTCAGAAGAGGTGGGACTTG 43597
+                             i    vii  i             
+C L2d_3end#LINE        244 AGGCTTCGTGGAGGAGGTGGGACTTG 219
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 36.43
+CpG sites = 48, Kimura (unadjusted) = 38.02
+Transitions / transversions = 2.67 (48/18)
+Gap_init rate = 0.06 (13 / 236), avg. gap size = 3.23 (42 / 13)
+
+272 37.98 3.91 0.69 Pc_MSTS01000033.1.fa 43733 44013 (5988) Plat_L3#LINE/CR1 2229 2518 (1055) m_b1s551i10
+
+  Pc_MSTS010000      43733 AGCTTGACTTTGGATCCTGACAAAATTCTAGAACATTTTATTAAAGAACT 43782
+                                i  v i ivv    iv  i  v        vv i  i   v  ii
+  Plat_L3#LINE/       2229 AGCTTAACATCGATACCTGGGAAGATACTAGAACAAATCATCAAACAATC 2278
+
+  Pc_MSTS010000      43783 GGTGTGTGAGCACTTAGAAAAGAACATGATTGTCAGTATCAGTGAACAAG 43832
+                           ii v  ii v   i     i  v i v   vv vi v v  iiv   iv 
+  Plat_L3#LINE/       2279 AATTTGCAACCACCTAGAAGAGCATAAGATACTAGGAAGCAACCAACGTG 2328
+
+  Pc_MSTS010000      43833 GGCTTATCAAGAACAAGTCCTAGTGGACTAATCTCATCTCTTTTTTGGAC 43882
+                            vi  i v    i   i  v ivii   ?   i v  i  i  i vv  i
+  Plat_L3#LINE/       2329 GCTTTGTGAAGAGCAAATCGTGCCAGACNAATTTAATTTCCTTCTATGAT 2378
+
+  Pc_MSTS010000      43883 AGACTTACCAGAATGC-TAGATCAGGGCTGTACTTCAGGCGTAGTTT-TC 43930
+                              v v -   ivii -    iv    vvivi vvi  ii   i i -  
+  Plat_L3#LINE/       2379 AGAGTGA-CAGGCCACGTAGACAAGGGGGAAGCAATAGATGTAATCTATC 2427
+
+  Pc_MSTS010000      43931 TTGTATTTTAGCGAGGC---AGA----GCCTCAC--GATATCCTTATGGA 43971
+                            v - i  i  ii    ---v  ---- i i   --  i     i  v  
+  Plat_L3#LINE/       2428 TAG-ACTTCAGTAAGGCTTTTGATTCCGTCCCACATGACATCCTCATCGA 2476
+
+  Pc_MSTS010000      43972 CAAGGTAGAGAAATGCAGACTAGATGTTAGCATAGTTAGGTG 44013
+                               v i ii  i iii v  v  ivv  vi iv        
+  Plat_L3#LINE/       2477 CAAGCTGGGAAAGTATGGTCTTGACCATACTACCGTTAGGTG 2518
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 54.09
+CpG sites = 61, Kimura (unadjusted) = 55.68
+Transitions / transversions = 1.36 (61/45)
+Gap_init rate = 0.03 (7 / 280), avg. gap size = 1.86 (13 / 7)
+
+498 31.08 9.65 1.21 Pc_MSTS01000033.1.fa 44126 44353 (5648) L3#LINE/CR1 3207 3453 (646) m_b1s601i63
+
+  Pc_MSTS010000      44126 TTATTAGATTTTTCCAAGTGACACAAAACTAGTAGAGCTAGCTAATGTTT 44175
+                               i i    v--  ii         i  i v  i v        iiv?
+  L3#LINE/CR1         3207 TTATCAAATTTG--CAGATGACACAAAGCTGGGAGGGATAGCTAATACGN 3254
+
+  Pc_MSTS010000      44176 TGGAAGGTAGATTC-GGATTCCCAA--ATTTCGATCGGCTAAAACAATGT 44222
+                               v ii   v  -i     vv  --  i    iv    ii   i   v
+  L3#LINE/CR1         3255 TGGATGACAGAATCAAGATTCAAAANGATCTCGACAGGCTGGAACGATGG 3304
+
+  Pc_MSTS010000      44223 TCT--AATCAA----ATGAAATTGAATCAAGAT----------TCATAC- 44255
+                           v i--  i   ----        v  ivii   ----------  v i -
+  L3#LINE/CR1         3305 GCCGAAACCAACAAGATGAAATTTAACAGGGATAAATGTAAAGTCCTGCA 3354
+
+  Pc_MSTS010000      44256 -TCAGGTAAAAAAAAATCGGCTCCA-ATGTACAGAATGAGGAAAACATAG 44303
+                           - i    -vv        ii  v  - v      i   ii  ii iv i 
+  L3#LINE/CR1         3355 TTTAGGT-TCAAAAAATCAACTGCACAAGTACAGGATGGAGAGGATCTGG 3403
+
+  Pc_MSTS010000      44304 CTAGATAATAGTTCATGGGGAGAAGACCTGAGGAATCTAGTAGACTGAAA 44353
+                             viii ii      i v i i       ii  iv i    v   i v  
+  L3#LINE/CR1         3404 CTTAGCAGCAGTTCACGTGAAAAAGACCTAGGGGTTTTAGTTGACCGCAA 3453
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 38.50
+CpG sites = 46, Kimura (unadjusted) = 42.50
+Transitions / transversions = 1.92 (46/24)
+Gap_init rate = 0.05 (11 / 227), avg. gap size = 2.27 (25 / 11)
+
+246 17.31 0.00 0.00 Pc_MSTS01000033.1.fa 46434 46485 (3516) MIR1_Amn#SINE/MIR 78 129 (101) m_b1s601i64
+
+  Pc_MSTS010000      46434 ACTTACCGGCAGAGTGACCCTGGGCAACTCATTTAACCTCTCAGTGGCCT 46483
+                              ?i  ?  v ?      i       v   i  ?       v ? v ii
+  MIR1_Amn#SINE         78 ACTNGCCNGCTGNGTGACCTTGGGCAAGTCACTTNACCTCTCTGNGCCTC 127
+
+  Pc_MSTS010000      46484 AG 46485
+                             
+  MIR1_Amn#SINE        128 AG 129
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 22.35
+CpG sites = 5, Kimura (unadjusted) = 22.35
+Transitions / transversions = 1.25 (5/4)
+Gap_init rate = 0.00 (0 / 51), avg. gap size = 0.0 (0 / 0)
+
+1351 23.90 4.95 3.67 Pc_MSTS01000033.1.fa 48018 48421 (1580) L5#LINE/RTE-X 1855 2263 (0) m_b1s551i11
+
+  Pc_MSTS010000      48018 TATCTTTTAATATGCCCCATATATCTGGCACCATGTCAGAAGTTTCTTAG 48067
+                             i      v v      i i       v    i i            i 
+  L5#LINE/RTE-X       1855 TACCTTTTATTCTGCCCCGTGTATCTGGAACCACGCCAGAAGTTTCTTGG 1904
+
+  Pc_MSTS010000      48068 AGTCATTTTAATCGATGCCCTTTCCAGAACATTACCAGAAAAG-TAACCT 48116
+                           i  v       iiii iii vi  i      v           -   vi 
+  L5#LINE/RTE-X       1905 GGTAATTTTAACTAGTATTCACTCTAGAACAATACCAGAAAAGGTAAGTT 1954
+
+  Pc_MSTS010000      48117 CCTTATTGGCTCCCCCCTTCCCCCCGGAAACATG-----------GAATA 48155
+                           v    i  --------- i vv v    v  i i-----------  i v
+  L5#LINE/RTE-X       1955 ACTTACTG---------TCCGACACGGACACGTACGTAACTTTTAGAGTC 1995
+
+  Pc_MSTS010000      48156 TCTCTATTTGTTCTGATTCCTTCAAAAAAATTAGAGGAAAATAACTACTG 48205
+                              i?v    iv   iiiv         -- i    vv   --i   i v
+  L5#LINE/RTE-X       1996 TCTTNTTTTGCACTGGCCGCTTCAAAAA--TCAGAGCTAAA--GCTATTT 2041
+
+  Pc_MSTS010000      48206 TGGACCCTACAATTGAAATGACACAGTGATATATTGGTCTAAT---TCTT 48252
+                            i   v     i  i   i     i     i         i  ---  i 
+  L5#LINE/RTE-X       2042 TAGACACTACAGTTAAAACGACACGGTGATGTATTGGTCTGATGATTCCT 2091
+
+  Pc_MSTS010000      48253 TTTATGAAGCCAACTCCAAAATGCTATCTTTTGTGGCACTTAAAAACTCA 48302
+                                   ii      ii     i  i  v  v vi i  i i       
+  L5#LINE/RTE-X       2092 TTTATGAAATCAACTCTGAAATGTTACCTATTTTTACGCTCAGAAACTCA 2141
+
+  Pc_MSTS010000      48303 CTCTG--CTTGTTCTATTTTGACCTTTAAATTTTAATTTAAAAATCACAT 48350
+                               i--i       i      i     v vi   v      i       
+  L5#LINE/RTE-X       2142 CTCTAACTTTGTTCTGTTTTGATCTTTATAACTTATTTTAAAGATCACAT 2191
+
+  Pc_MSTS010000      48351 TGTGTCTGCTCTTTGCTCTATAAGTCTTACAATGCACCTCTGTCTCAAAA 48400
+                              ii  i           i        i     -i   i  v -     
+  L5#LINE/RTE-X       2192 TGTACCTACTCTTTGCTCTGTAAGTCTTGCAATG-GCCTTTGGC-CAAAA 2239
+
+  Pc_MSTS010000      48401 G-AGTATAGTTATG--CTGACTTG 48421
+                            - i  v i  v  --     i  
+  L5#LINE/RTE-X       2240 GCAATAAAATTCTGACCTGACCTG 2263
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 27.32
+CpG sites = 64, Kimura (unadjusted) = 29.98
+Transitions / transversions = 2.21 (64/29)
+Gap_init rate = 0.05 (21 / 403), avg. gap size = 1.67 (35 / 21)
+
+235 27.55 3.92 3.92 Pc_MSTS01000033.1.fa 48498 48599 (1402) C L2d_3end#LINE/L2 (116) 400 299 m_b1s601i65
+
+  Pc_MSTS010000      48498 ACAATTTATTTGGGAAATCAGTAAGGCATACACATTGTGAAAAGTTTAAA 48547
+                                i  v     i iv  ---  i vv     i-i     viv   i 
+C L2d_3end#LINE        400 ACAATCTAGTTGGGGAGACA---AGACTAACACAC-ATGAAACAATTAGA 355
+
+  Pc_MSTS010000      48548 GAACAA---AAAACAGTATATGATTACTTGCCAAAATGAGTTACATAGGT 48594
+                                 ---  i         i    vv   i   v  v  vii i  ii
+C L2d_3end#LINE        354 GAACAATACAAGACAGTATATAATTAAGTGCTAAATTGCGTGGTACAGAC 305
+
+  Pc_MSTS010000      48595 T-TAAG 48599
+                            -    
+C L2d_3end#LINE        304 TATAAG 299
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 35.24
+CpG sites = 16, Kimura (unadjusted) = 35.24
+Transitions / transversions = 1.45 (16/11)
+Gap_init rate = 0.06 (6 / 101), avg. gap size = 1.33 (8 / 6)
+
+437 31.53 4.48 2.94 Pc_MSTS01000033.1.fa 48602 48735 (1266) C MIRc#SINE/MIR (116) 152 17 m_b1s601i66
+
+  Pc_MSTS010000      48602 TATTTGCTTTTGGTAGGCAAGGAAATGAAAACACATAGAAAGTGAATGAC 48651
+                              iiv v   vii  iii      ivi ii v  v   iiv i i    
+C MIRc#SINE/MIR        152 TATCCCCATTTTACAGATGAGGAAACTGAGGCTCAGAGAGGTTAAGTGAC 103
+
+  Pc_MSTS010000      48652 TTGCCCAAGGTCATACAGACAGTAGATGGCAGGGCTGGAATTTGAACCCA 48701
+                                        i    vi    ii      i  i  i i i       
+C MIRc#SINE/MIR        102 TTGCCCAAGGTCACACAGCTAGTAAGTGGCAGAGCCGGGACTCGAACCCA 53
+
+  Pc_MSTS010000      48702 AATT------ACTCAGCAATTTGACGTTGTTCTCTCCACT 48735
+                           ii i------    --   v i-- iv  i   i      
+C MIRc#SINE/MIR         52 GGTCTTCCTGACTC--CAAGTC--CAGTGCTCTTTCCACT 17
+
+Matrix = 25p37g.matrix
+Kimura (with divCpGMod) = 41.52
+CpG sites = 31, Kimura (unadjusted) = 44.53
+Transitions / transversions = 3.10 (31/10)
+Gap_init rate = 0.04 (5 / 133), avg. gap size = 2.00 (10 / 5)
+
+## Total Sequences: 1
+## Total Length: 50001
+## Total NonMask ( excluding >20bp runs of N/X bases ): 50001
+## Total NonSub ( excluding all non ACGT bases ):50001
+RepeatMasker version 4.1.5 , default mode
+run with rmblastn version 2.13.0+
+RM Library: CONS-Dfam_3.7

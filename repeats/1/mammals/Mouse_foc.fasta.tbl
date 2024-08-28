@@ -1,0 +1,51 @@
+==================================================
+file name: Mouse_foc.fasta          
+sequences:             1
+total length:      50001 bp  (50001 bp excl N/X-runs) 
+GC level:         41.03 %
+bases masked:      19080 bp ( 38.16 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                22         3432 bp    6.86 %
+      Alu/B1           9         1175 bp    2.35 %
+      MIRs             3          385 bp    0.77 %
+
+LINEs:                13         6340 bp   12.68 %
+      LINE1           10         5991 bp   11.98 %
+      LINE2            3          349 bp    0.70 %
+      L3/CR1           0            0 bp    0.00 %
+      RTE              0            0 bp    0.00 %
+
+LTR elements:         24         7753 bp   15.51 %
+      ERVL             2          371 bp    0.74 %
+      ERVL-MaLRs      12         3767 bp    7.53 %
+      ERV_classI       1          457 bp    0.91 %
+      ERV_classII      9         3158 bp    6.32 %
+
+DNA elements:          3         1262 bp    2.52 %
+      hAT-Charlie      2         1112 bp    2.22 %
+      TcMar-Tigger     1          150 bp    0.30 %
+
+Unclassified:          1          107 bp    0.21 %
+
+Total interspersed repeats:     18894 bp   37.79 %
+
+
+Small RNA:             0            0 bp    0.00 %
+
+Satellites:            2          186 bp    0.37 %
+Simple repeats:        0            0 bp    0.00 %
+Low complexity:        0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be mammals       
+RepeatMasker version 4.1.5 , default mode
+                                        
+run with rmblastn version 2.13.0+
+FamDB: CONS-Dfam_3.7

@@ -1,0 +1,51 @@
+==================================================
+file name: Agilis_foc.fasta         
+sequences:             1
+total length:      50001 bp  (50001 bp excl N/X-runs) 
+GC level:         35.25 %
+bases masked:      14786 bp ( 29.57 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                30         4462 bp    8.92 %
+      Alu/B1           0            0 bp    0.00 %
+      MIRs            30         4462 bp    8.92 %
+
+LINEs:                29         9017 bp   18.03 %
+      LINE1            2          674 bp    1.35 %
+      LINE2           13         5526 bp   11.05 %
+      L3/CR1          11         1899 bp    3.80 %
+      RTE              2          505 bp    1.01 %
+
+LTR elements:          1          175 bp    0.35 %
+      ERVL             0            0 bp    0.00 %
+      ERVL-MaLRs       0            0 bp    0.00 %
+      ERV_classI       0            0 bp    0.00 %
+      ERV_classII      0            0 bp    0.00 %
+
+DNA elements:         10         1132 bp    2.26 %
+      hAT-Charlie      4          627 bp    1.25 %
+      TcMar-Tigger     3          376 bp    0.75 %
+
+Unclassified:          0            0 bp    0.00 %
+
+Total interspersed repeats:     14786 bp   29.57 %
+
+
+Small RNA:             0            0 bp    0.00 %
+
+Satellites:            0            0 bp    0.00 %
+Simple repeats:        0            0 bp    0.00 %
+Low complexity:        0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be mammals       
+RepeatMasker version 4.1.5 , default mode
+                                        
+run with rmblastn version 2.13.0+
+FamDB: CONS-Dfam_3.7

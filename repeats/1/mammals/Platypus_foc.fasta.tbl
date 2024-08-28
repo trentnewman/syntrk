@@ -1,0 +1,51 @@
+==================================================
+file name: Platypus_foc.fasta       
+sequences:             1
+total length:      50001 bp  (50001 bp excl N/X-runs) 
+GC level:         48.39 %
+bases masked:      25476 bp ( 50.95 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                65        12121 bp   24.24 %
+      Alu/B1           0            0 bp    0.00 %
+      MIRs            65        12121 bp   24.24 %
+
+LINEs:                76        13287 bp   26.57 %
+      LINE1            0            0 bp    0.00 %
+      LINE2           73        13040 bp   26.08 %
+      L3/CR1           0            0 bp    0.00 %
+      RTE              2          186 bp    0.37 %
+
+LTR elements:          0            0 bp    0.00 %
+      ERVL             0            0 bp    0.00 %
+      ERVL-MaLRs       0            0 bp    0.00 %
+      ERV_classI       0            0 bp    0.00 %
+      ERV_classII      0            0 bp    0.00 %
+
+DNA elements:          0            0 bp    0.00 %
+      hAT-Charlie      0            0 bp    0.00 %
+      TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:          0            0 bp    0.00 %
+
+Total interspersed repeats:     25408 bp   50.81 %
+
+
+Small RNA:             1           68 bp    0.14 %
+
+Satellites:            0            0 bp    0.00 %
+Simple repeats:        0            0 bp    0.00 %
+Low complexity:        0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be mammals       
+RepeatMasker version 4.1.5 , default mode
+                                        
+run with rmblastn version 2.13.0+
+FamDB: CONS-Dfam_3.7

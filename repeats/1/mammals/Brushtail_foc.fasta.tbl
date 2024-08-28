@@ -1,0 +1,51 @@
+==================================================
+file name: Brushtail_foc.fasta      
+sequences:             1
+total length:      50001 bp  (50001 bp excl N/X-runs) 
+GC level:         38.34 %
+bases masked:      14838 bp ( 29.68 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                25         3811 bp    7.62 %
+      Alu/B1           0            0 bp    0.00 %
+      MIRs            24         3759 bp    7.52 %
+
+LINEs:                30         9319 bp   18.64 %
+      LINE1            3         1225 bp    2.45 %
+      LINE2           12         4317 bp    8.63 %
+      L3/CR1          11         2713 bp    5.43 %
+      RTE              2          524 bp    1.05 %
+
+LTR elements:          2          102 bp    0.20 %
+      ERVL             0            0 bp    0.00 %
+      ERVL-MaLRs       0            0 bp    0.00 %
+      ERV_classI       0            0 bp    0.00 %
+      ERV_classII      2          102 bp    0.20 %
+
+DNA elements:          9         1402 bp    2.80 %
+      hAT-Charlie      4          661 bp    1.32 %
+      TcMar-Tigger     3          617 bp    1.23 %
+
+Unclassified:          2          204 bp    0.41 %
+
+Total interspersed repeats:     14838 bp   29.68 %
+
+
+Small RNA:             0            0 bp    0.00 %
+
+Satellites:            0            0 bp    0.00 %
+Simple repeats:        0            0 bp    0.00 %
+Low complexity:        0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be mammals       
+RepeatMasker version 4.1.5 , default mode
+                                        
+run with rmblastn version 2.13.0+
+FamDB: CONS-Dfam_3.7

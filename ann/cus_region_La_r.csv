@@ -1,0 +1,3 @@
+chrom,id,me,nm,featuretype,strand,start,end
+scaffold_17,id,,TTLL7,unk_exA,+,6761990,6856238
+scaffold_17,id,,PRKACB,unk_exA,-,6480785,6552590

@@ -1,0 +1,4 @@
+chrom,id,me,nm,featuretype,strand,start,end
+NC_050576.1,id,,TTLL7,unk_exA,+,46573671,46785962
+NC_050576.1,id,,PRKACB,unk_exA,-,46395440,46449269
+NC_050576.1,id,,SAMD13,unk_exA,-,46255923,46312689

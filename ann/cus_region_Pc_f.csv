@@ -1,0 +1,4 @@
+chrom,id,me,nm,featuretype,strand,start,end
+MSTS01000033.1,id,,TTLL7,unk_exA,-,11134609,11203380
+MSTS01000033.1,id,,PRKACB,unk_exA,+,11385197,11440365
+MSTS01000033.1,id,,SAMD13,unk_exA,+,11517385,11571851
