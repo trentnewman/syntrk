@@ -50,7 +50,7 @@ r1p9_key.ipynb
 r1p9_key2.ipynb
 - Used to create a custom key for the focussed region plot.
 
-<img src="./assets/key_lastz.png" width="100">
+<img src="./assets/key_lastz.png" width="150">
 <img src="./assets/key_reps.png" width="100">
 
 Additional file/folder requirements:
